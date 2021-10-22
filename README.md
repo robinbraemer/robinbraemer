@@ -26,7 +26,7 @@ _🇩🇪 (German) 🇬🇧 (English)_
 
 **Cloud native tech I've learned & used (CNCF):**
 
-_In my projects I've learned how to build and scale large microservice infrastructures._
+_In my projects I've learned how to build and scale large, low-cost microservice infrastructures with raw dedicated servers._
 
 <a href="https://github.com/kubernetes">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg" />
@@ -41,13 +41,13 @@ _In my projects I've learned how to build and scale large microservice infrastru
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/containerd.svg" />
 </a>
 <a href="https://github.com/istio/istio">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/rook.svg" />
+<img height="32" width="32" src="https://landscape.cncf.io/logos/istio.svg" />
 </a>
 <a href="https://github.com/cilium/cilium">
 <img height="32" width="32" src="https://landscape.cncf.io/logos/cilium.svg" />
 </a>
 <a href="https://github.com/rook/rook">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/istio.svg" />
+<img height="32" width="32" src="https://landscape.cncf.io/logos/rook.svg" />
 </a>
 <a href="https://github.com/kubernetes-sigs/kubebuilder">
 <img height="32" width="32" src="https://book.kubebuilder.io/logos/logo-single-line.png" />
@@ -96,6 +96,8 @@ _In my projects I've learned how to build and scale large microservice infrastru
 </a>
 
 **Databases I've learned & used:**
+
+_I'm also a heavy database nerd and have used every single DB in the following list._
 
 <a href="https://github.com/cockroachdb/cockroach">
     <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/cockroachlabs.svg" />
