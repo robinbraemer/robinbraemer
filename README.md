@@ -12,87 +12,89 @@ _I'm a full-blown software, site reliability, ... engineer with much fine-graine
 _🇩🇪 (German) 🇬🇧 (English)_
 
 <a href="https://github.com/golang/go">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/go.svg" />
+    <img height="32" width="50" style="background-color:white" src="https://golang.org/lib/godoc/images/go-logo-blue.svg" />
 </a>
 <a href="https://github.com/openjdk/">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/java.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 </a>
 <a href="https://github.com/python">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/1525981?s=32" />
 </a>
 <a href="https://skriptlang.github.io/Skript/">
-    <img height="32" width="32" src="https://github.com/SkriptLang/Skript/blob/7a1929aa22a301e0a1386ace92429b114f0bc777/docs/assets/Logo/Skript%20Logo%20Trans.png?raw=true" />
+    <img height="32" width="32" style="background-color:white" src="https://github.com/SkriptLang/Skript/blob/7a1929aa22a301e0a1386ace92429b114f0bc777/docs/assets/Logo/Skript%20Logo%20Trans.png?raw=true" />
 </a>
+
+> **Note:** Languages I don't like: Java, Python
 
 **Cloud native tech I've learned & used (CNCF):**
 
 _In my projects I've learned how to build and scale large, low-cost microservice infrastructures with raw dedicated servers._
 
 <a href="https://github.com/kubernetes">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg" />
+<img height="32" width="100" style="background-color:white" src="./etc/Kubernetes_logo.svg" />
 </a>
 <a href="https://github.com/grpc">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/g-rpc.svg" />
+<img height="32" width="32" style="background-color:white" src="./etc/grpc.svg" />
 </a>
 <a href="https://github.com/protocolbuffers/protobuf">
-<img height="32" width="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_protobuf_icon_130228.png" />
+<img height="32" width="80" src="./etc/pb.png" />
 </a>
 <a href="https://github.com/containerd/containerd">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/containerd.svg" />
+<img height="32" width="32" style="background-color:white" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAELCAMAAAC77XfeAAAAP1BMVEUAAAD////MzMw1NTU8PDytra1KSkqoqKg/Pz8uLi62trYyMjK+vr4rKytJSUkcHBxVVVWkpKTa2tqJiYnR0dH4R4tDAAABgElEQVR4nO3cW05CMRRAUVQUAfE9/7FqIn8mcKno5sa1B3C6/tuexdWcW9SAH/WpXy9m2fWX/qZ2jEXfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F3xXqHzZHe9gdHhHqp3wivD884sL1y8Mj6Aejpx+Lnn4sevqx6OnHoqcfi55+LHr6sejpx6KnH4uefix6+rHo6cein6Lf3p2/x/u/0m+mHPQrnUN/S09PT09PT09PT09PT09PT09PT09PX+tvn9YntXu+JP3q8EHfW85aP+X6gZ6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6env7f6l9O1W8vSf+6OrEpf+29JqWnp6enp6enp6enp6enp6enp6env3T923XU+5Ftu+FO3jNE30XfRd9F30XfRd9F30XfRd9F30XfRd9F30Xftdeva8dYe/2Mm7f+A1ikTmrHdorKAAAAAElFTkSuQmCC" />
 </a>
 <a href="https://github.com/istio/istio">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/istio.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/istio.svg" />
 </a>
 <a href="https://github.com/cilium/cilium">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/cilium.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/cilium.svg" />
 </a>
 <a href="https://github.com/rook/rook">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/rook.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/rook.svg" />
 </a>
 <a href="https://github.com/kubernetes-sigs/kubebuilder">
-<img height="32" width="32" src="https://book.kubebuilder.io/logos/logo-single-line.png" />
+<img height="32" width="70" style="background-color:white" src="https://book.kubebuilder.io/logos/logo-single-line.png" />
 </a>
 <a href="https://github.com/maas/maas">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/maas.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/maas.svg" />
 </a>
 <a href="https://github.com/openstack">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/openstack.svg" />
+<img height="32" width="32" style="background-color:white" src="./etc/openstack.png" />
 </a>
 <a href="https://github.com/k8snetworkplumbingwg/multus-cni">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/multus.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/multus.svg" />
 </a>
 <a href="https://github.com/kubeovn/kube-ovn">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/kube-ovn.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/kube-ovn.svg" />
 </a>
 <a href="https://github.com/prometheus/prometheus">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/prometheus.svg" />
+<img height="32" width="32" style="background-color:white" src="https://unpkg.com/simple-icons@latest/icons/prometheus.svg" />
 </a>
 <a href="https://github.com/open-policy-agent/opa">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/open-policy-agent-opa.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/open-policy-agent-opa.svg" />
 </a>
 <a href="https://github.com/kubevirt/kubevirt">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/kube-virt.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/kube-virt.svg" />
 </a>
 <a href="https://github.com/cloudevents">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/cloud-events.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/cloud-events.svg" />
 </a>
 <a href="https://github.com/fluxcd">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/flux.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/flux.svg" />
 </a>
 <a href="https://github.com/nats-io">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/nats.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/nats.svg" />
 </a>
 <a href="https://github.com/operator-framework/operator-sdk">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/operator-framework.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/operator-framework.svg" />
 </a>
 <a href="https://github.com/containernetworking/cni">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/container-network-interface-cni.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/container-network-interface-cni.svg" />
 </a>
 <a href="https://github.com/CrunchyData/postgres-operator">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/crunchy-postgres-operator.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/crunchy-postgres-operator.svg" />
 </a>
 <a href="https://github.com/kubemq-io/kubemq-community">
-<img height="32" width="32" src="https://landscape.cncf.io/logos/kube-mq.svg" />
+<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/kube-mq.svg" />
 </a>
 
 **Databases I've learned & used:**
@@ -100,61 +102,55 @@ _In my projects I've learned how to build and scale large, low-cost microservice
 _I'm also a heavy database nerd and have used every single DB in the following list._
 
 <a href="https://github.com/cockroachdb/cockroach">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/cockroachlabs.svg" />
+    <img height="32" width="32" style="background-color:white" src="./etc/Cockroach_Labs_Logo.png" />
 </a>
 <a href="https://github.com/redis/redis">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/redis.svg" />
+    <img height="32" width="32" style="background-color:white" src="./etc/redis.png" />
 </a>
 <a href="https://github.com/graphql">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/dgraph.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/13958706?s=32" />
 </a>
 <a href="https://github.com/dgraph-io/badger">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/badgr.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://unpkg.com/simple-icons@latest/icons/badgr.svg" />
 </a>
 <a href="https://github.com/etcd-io/etcd">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/etcd.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/41972792?s=32" />
 </a>
 <a href="https://github.com/postgres">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/postgresql.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/177543?s=32" />
 </a>
 <a href="https://github.com/couchbase">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/couchbase.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/605755?s=32" />
 </a>
 <a href="https://github.com/mysql">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/mysql.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/2452804?s=32" />
 </a>
 <a href="https://github.com/MariaDB/">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/mariadb.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/4739304?s=32" />
 </a>
 <a href="https://github.com/apache/cassandra">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/apachecassandra.svg" />
+    <img height="32" width="32" style="background-color:white" src="./etc/cassandra.png" />
 </a>
 <a href="https://github.com/sqlite/sqlite">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/sqlite.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/48680494?s=32" />
 </a>
 <a href="https://cloud.google.com/firestore">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/googlecloud.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://unpkg.com/simple-icons@latest/icons/googlecloud.svg" />
 </a>
 
 **Other platforms I use:**
 
 <a href="https://gitlab.com/robinbraemer">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/gitlab.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/22105643?s=32" />
 </a>
 <a href="https://github.com/robinbraemer">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/github.svg" />
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/9919?s=32" />
 </a>
-<a href="https://www.jetbrains.com/go/">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/goland.svg" />
+<a href="https://www.jetbrains.com/">
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/878437?s=32" />
 </a>
-<a href="https://www.jetbrains.com/pycharm/">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/pycharm.svg" />
-</a>
-<a href="https://www.jetbrains.com/idea/">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/intellijidea.svg" />
-</a>
-<a href="https://www.jetbrains.com/webstorm/">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/webstorm.svg" />
+<a href="https://cloud.google.com/">
+    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/2810941?s=32" />
 </a>
 
 ## Story time
@@ -187,6 +183,9 @@ creating an own mini-cloud with a pay-as-you-go billing system
 and building complete CI/CD pipelines like a DevOp
 I can confidentially be very proud of what I have learned and
 archived when I was 16-19 years old.
+
+Now studing software engineering at CODE University, a private university in Berlin,
+paying the tuition fees with the money earned years back, freelancing, professional sportbetting or from my own new startup.
 
 <!--
 **robinbraemer/robinbraemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
