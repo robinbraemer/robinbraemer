@@ -12,7 +12,7 @@ _I'm a full-blown software, site reliability, ... engineer with much fine-graine
 _🇩🇪 (German) 🇬🇧 (English)_
 
 <a href="https://github.com/golang/go">
-    <img height="32" width="50" style="background-color:white" src="https://golang.org/lib/godoc/images/go-logo-blue.svg" />
+    <img height="32" width="50" style="background-color:white" src="https://go.dev/images/go-logo-white.svg" />
 </a>
 <a href="https://github.com/openjdk/">
     <img height="32" width="32" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
