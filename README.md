@@ -40,7 +40,7 @@ _In my projects I've learned how to build and scale large, low-cost microservice
 <img height="32" width="80" src="./etc/pb.png" />
 </a>
 <a href="https://github.com/containerd/containerd">
-<img height="32" width="32" style="background-color:white" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAELCAMAAAC77XfeAAAAP1BMVEUAAAD////MzMw1NTU8PDytra1KSkqoqKg/Pz8uLi62trYyMjK+vr4rKytJSUkcHBxVVVWkpKTa2tqJiYnR0dH4R4tDAAABgElEQVR4nO3cW05CMRRAUVQUAfE9/7FqIn8mcKno5sa1B3C6/tuexdWcW9SAH/WpXy9m2fWX/qZ2jEXfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F30XfRd9F3xXqHzZHe9gdHhHqp3wivD884sL1y8Mj6Aejpx+Lnn4sevqx6OnHoqcfi55+LHr6sejpx6KnH4uefix6+rHo6cein6Lf3p2/x/u/0m+mHPQrnUN/S09PT09PT09PT09PT09PT09PT09PX+tvn9YntXu+JP3q8EHfW85aP+X6gZ6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6env7f6l9O1W8vSf+6OrEpf+29JqWnp6enp6enp6enp6enp6enp6env3T923XU+5Ftu+FO3jNE30XfRd9F30XfRd9F30XfRd9F30XfRd9F30Xftdeva8dYe/2Mm7f+A1ikTmrHdorKAAAAAElFTkSuQmCC" />
+<img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/14037953?s=32" />
 </a>
 <a href="https://github.com/istio/istio">
 <img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/istio.svg" />
