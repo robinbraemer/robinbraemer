@@ -173,7 +173,7 @@ perseverance and enthusiasm I can achieve almost anything. Then, and from now on
 became thirsty for knowledge and am always looking for the next awesome thing on my way to become a recognized
 engineer and entrepreneur!
 
-From multiple programming languages (backend only, don't like frontend),
+From multiple programming languages (backend mostly),
 selling automated chrome browsers for Instagram automation bots to
 writing a single 222 lines SQL query to
 developing a cloud-ready access control system (AWS, Google like IAM) to
