@@ -1,4 +1,4 @@
-# Robin Brämer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Robin Brämer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 _I'm a full-blown software, site reliability, ... engineer with much fine-grained knowledge of way too many technologies._
 
 ![](https://img.shields.io/badge/-Gopher-informational?style=for-the-badge&logo=Go)
