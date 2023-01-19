@@ -155,37 +155,15 @@ _I'm also a heavy database nerd and have used every single DB in the following l
 
 ## Story time
 
-I have always been highly interested in technologies,
-since my age of 10 where I've got my first laptop and learned
-about basic server concepts and started scripting with my age of 12 to set up my own server networks.
+I have always been highly enamored with technology, dating back to my tenth year, when I acquired my first laptop and became familiar with fundamental server concepts, and began scripting at the age of twelve, setting up my own server networks.
 
-Between my age of 13-17 I had built and lead a gamer community of about 500k players in sum,
-that have played the games that I programmed, have used my forum websites and even uploaded YouTube Videos about my games.
-This was an exciting time for me because of all the players wanting to play with what I loved to build.
-I’ve got to meet many interesting personalities that I recruited into my team and saw all the competition
-by others trying to imitate our ideas. It also opened my eyes to selling digital products,
-marketing and project management in general, so I opened my first online shop, when I was 14.
-Earning money at such a young age felt great, but what I actually loved was the pure engineering aspect,
-learning, growing and redefining my boundaries being as open-minded and knowledge-hungry as I am still today.
+Between the ages of thirteen and seventeen, I constructed and headed a gaming community comprising approximately five hundred thousand players in total, who played the games I had programmed, utilized my forum websites, and even uploaded YouTube videos about my games. This was a thrilling period for me, as I was able to connect with a vast number of players who shared my passion for building. I had the opportunity to meet a variety of fascinating individuals whom I subsequently recruited to my team, and I was able to observe the competition as others attempted to imitate our ideas. It also served as an enlightening introduction to the realm of digital product sales, marketing, and project management, leading me to establish my first online shop at the age of fourteen. Earning money at such a young age was gratifying, but what truly enthused me was the pure engineering aspect- learning, growing, and constantly pushing the limits of my abilities with an open-minded and insatiable appetite for knowledge, which I still possess to this day.
 
-What I had built up during this time shaped my passion for programming and my understanding that with enough
-perseverance and enthusiasm I can achieve almost anything. Then, and from now on, I looked beyond just games,
-became thirsty for knowledge and am always looking for the next awesome thing on my way to become a recognized
-engineer and entrepreneur!
+The experiences I had accumulated during this time solidified my passion for programming and reinforced my belief that with sufficient determination and enthusiasm, I am capable of achieving nearly anything. From that point forward, I set my sights beyond just games, becoming driven by a thirst for knowledge and always on the lookout for the next exciting development on my path to becoming a respected engineer and entrepreneur.
 
-From multiple programming languages (backend mostly),
-selling automated chrome browsers for Instagram automation bots to
-writing a single 222 lines SQL query to
-developing a cloud-ready access control system (AWS, Google like IAM) to
-designing lots of API services to
-making protocol specific proxy software to
-creating an own mini-cloud with a pay-as-you-go billing system
-and building complete CI/CD pipelines like a DevOp
-I can confidentially be very proud of what I have learned and
-archived when I was 16-19 years old.
+With proficiency in multiple programming languages (primarily backend), selling automated chrome browsers for Instagram automation bots, writing a single 222-line SQL query, developing a cloud-ready access control system (such as AWS or Google IAM), designing numerous API services, creating protocol-specific proxy software, constructing my own mini-cloud with a pay-as-you-go billing system, and building complete CI/CD pipelines as a DevOps, I am confident in the skills and accomplishments I have attained between the ages of sixteen and nineteen.
 
-Now studing software engineering at CODE University, a private university in Berlin,
-paying the tuition fees with the money earned years back, freelancing, professional sportbetting or from my own new startup.
+Presently, I am pursuing a degree in software engineering at CODE University, a private institution in Berlin, and am able to afford tuition through a combination of freelance work, professional sports betting, and proceeds from my latest startup. :)
 
 <!--
 **robinbraemer/robinbraemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
