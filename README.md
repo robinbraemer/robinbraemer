@@ -8,20 +8,34 @@ _I'm a full-blown software, site reliability, ... engineer with much fine-graine
 
 ## Experiences
 
-**Languages:**
-_🇩🇪 (German) 🇬🇧 (English)_
+**Main Languages:**
 
 <a href="https://github.com/golang/go">
-    <img height="32" width="50" style="background-color:white" src="https://go.dev/images/go-logo-white.svg" />
+    <img height="32" width="50" src="https://go.dev/images/go-logo-white.svg" />
 </a>
-<a href="https://github.com/openjdk/">
-    <img height="32" width="32" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<a href="https://github.com/sveltejs">
+    <img height="32" width="32" src="https://github.com/sveltejs.png" />
+</a>
+
+_🇩🇪 (German) 🇬🇧 (English)_
+
+
+**Other Languages:**
+
+<a href="https://github.com/java/">
+    <img height="32" width="32" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+</a>
+<a href="https://github.com/microsoft/TypeScript">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+</a>
+<a href="https://github.com/microsoft/JavaScript">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 <a href="https://github.com/python">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/1525981?s=32" />
+    <img height="32" width="32" src="https://github.com/python.png" />
 </a>
-<a href="https://skriptlang.github.io/Skript/">
-    <img height="32" width="32" style="background-color:white" src="https://github.com/SkriptLang/Skript/blob/7a1929aa22a301e0a1386ace92429b114f0bc777/docs/assets/Logo/Skript%20Logo%20Trans.png?raw=true" />
+<a href="https://github.com/SkriptLang">
+    <img height="32" width="32" src="https://github.com/SkriptLang.png" />
 </a>
 
 > **Note:** Languages I don't like: Java, Python
@@ -31,127 +45,165 @@ _🇩🇪 (German) 🇬🇧 (English)_
 _In my projects I've learned how to build and scale large, low-cost microservice infrastructures with raw dedicated servers._
 
 <a href="https://github.com/kubernetes">
-<img height="32" width="100" style="background-color:white" src="./etc/Kubernetes_logo.svg" />
+<img height="32" width="32" src="https://github.com/kubernetes.png" />
 </a>
 <a href="https://github.com/grpc">
-<img height="32" width="32" style="background-color:white" src="./etc/grpc.svg" />
+<img height="32" width="32" src="https://github.com/grpc.png" />
 </a>
 <a href="https://github.com/protocolbuffers/protobuf">
-<img height="32" width="80" src="./etc/pb.png" />
+<img height="32" width="32" src="https://gist.github.com/assets/22003767/6a6037ca-e390-4ca1-b4a9-93a6565c045b" />
+</a>
+<a href="https://github.com/siderolabs/talos">
+    <img height="32" width="32" src="https://github.com/siderolabs.png" />
+</a>
+<a href="https://github.com/argoproj">
+    <img height="32" width="32" src="https://github.com/argoproj.png" />
 </a>
 <a href="https://github.com/containerd/containerd">
-<img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/14037953?s=32" />
+<img height="32" width="32" style="background-color:white" src="https://github.com/containerd.png" />
 </a>
 <a href="https://github.com/istio/istio">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/istio.svg" />
+<img height="32" width="32" src="https://github.com/istio.png" />
 </a>
 <a href="https://github.com/cilium/cilium">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/cilium.svg" />
+<img height="32" width="32" src="https://github.com/cilium.png" />
+</a>
+<a href="https://github.com/piraeusdatastore/piraeus-operator">
+    <img height="32" width="32" src="https://github.com/piraeusdatastore.png" />
 </a>
 <a href="https://github.com/rook/rook">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/rook.svg" />
+<img height="32" width="32" style="background-color:white" src="https://github.com/rook.png" />
 </a>
 <a href="https://github.com/kubernetes-sigs/kubebuilder">
-<img height="32" width="70" style="background-color:white" src="https://book.kubebuilder.io/logos/logo-single-line.png" />
+<img height="32" width="32" src="https://github.com/kubernetes-sigs.png" />
 </a>
 <a href="https://github.com/maas/maas">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/maas.svg" />
+<img height="32" width="32" src="https://github.com/maas.png" />
 </a>
 <a href="https://github.com/openstack">
-<img height="32" width="32" style="background-color:white" src="./etc/openstack.png" />
+<img height="32" width="32" src="https://github.com/openstack.png" />
 </a>
 <a href="https://github.com/k8snetworkplumbingwg/multus-cni">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/multus.svg" />
+<img height="32" width="32" src="https://gist.github.com/assets/22003767/73d5992f-1936-44fd-9930-e1a1f7c105a1" />
 </a>
 <a href="https://github.com/kubeovn/kube-ovn">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/kube-ovn.svg" />
+<img height="32" width="32" src="https://github.com/kubeovn.png" />
 </a>
 <a href="https://github.com/prometheus/prometheus">
-<img height="32" width="32" style="background-color:white" src="https://unpkg.com/simple-icons@latest/icons/prometheus.svg" />
+<img height="32" width="32" src="https://github.com/prometheus.png" />
 </a>
 <a href="https://github.com/open-policy-agent/opa">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/open-policy-agent-opa.svg" />
+<img height="32" width="32" src="https://github.com/open-policy-agent.png" />
 </a>
 <a href="https://github.com/kubevirt/kubevirt">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/kube-virt.svg" />
+<img height="32" width="32" src="https://github.com/kubevirt.png" />
 </a>
 <a href="https://github.com/cloudevents">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/cloud-events.svg" />
+<img height="32" width="32" src="https://github.com/cloudevents.png" />
+</a>
+<a href="https://github.com/gvisor">
+<img height="32" width="32" src="https://gvisor.dev/assets/logos/logo_solo_on_dark.svg" />
 </a>
 <a href="https://github.com/fluxcd">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/flux.svg" />
+<img height="32" width="32" src="https://github.com/fluxcd.png" />
 </a>
 <a href="https://github.com/nats-io">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/nats.svg" />
+<img height="32" width="32" src="https://github.com/nats-io.png" />
 </a>
 <a href="https://github.com/operator-framework/operator-sdk">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/operator-framework.svg" />
+<img height="32" width="32" src="https://github.com/operator-framework.png" />
 </a>
 <a href="https://github.com/containernetworking/cni">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/container-network-interface-cni.svg" />
+<img height="32" width="32" src="https://github.com/containernetworking.png" />
 </a>
 <a href="https://github.com/CrunchyData/postgres-operator">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/crunchy-postgres-operator.svg" />
+<img height="32" width="32" src="https://github.com/CrunchyData.png" />
 </a>
 <a href="https://github.com/kubemq-io/kubemq-community">
-<img height="32" width="32" style="background-color:white" src="https://landscape.cncf.io/logos/kube-mq.svg" />
+<img height="32" width="32" src="https://github.com/kubemq-io.png" />
 </a>
+<a href="https://github.com/loft-sh/vcluster">
+<img height="32" width="32" src="https://github.com/loft-sh.png" />
+</a>
+
 
 **Databases I've learned & used:**
 
 _I'm also a heavy database nerd and have used every single DB in the following list._
 
 <a href="https://github.com/cockroachdb/cockroach">
-    <img height="32" width="32" style="background-color:white" src="./etc/Cockroach_Labs_Logo.png" />
+    <img height="32" width="32" src="https://github.com/cockroachdb.png" />
 </a>
 <a href="https://github.com/redis/redis">
-    <img height="32" width="32" style="background-color:white" src="./etc/redis.png" />
+    <img height="32" width="32" src="https://github.com/redis.png" />
 </a>
 <a href="https://github.com/graphql">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/13958706?s=32" />
+    <img height="32" width="32" src="https://github.com/graphql.png" />
 </a>
 <a href="https://github.com/dgraph-io/badger">
-    <img height="32" width="32" style="background-color:white" src="https://unpkg.com/simple-icons@latest/icons/badgr.svg" />
+    <img height="32" width="32" src="https://github.com/dgraph-io.png" />
 </a>
 <a href="https://github.com/etcd-io/etcd">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/41972792?s=32" />
+    <img height="32" width="32" src="https://github.com/etcd-io.png" />
 </a>
 <a href="https://github.com/postgres">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/177543?s=32" />
+    <img height="32" width="32" src="https://github.com/postgres.png" />
 </a>
 <a href="https://github.com/couchbase">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/605755?s=32" />
+    <img height="32" width="32" src="https://github.com/couchbase.png" />
 </a>
 <a href="https://github.com/mysql">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/2452804?s=32" />
+    <img height="32" width="32" src="https://github.com/mysql.png" />
 </a>
-<a href="https://github.com/MariaDB/">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/4739304?s=32" />
+<a href="https://github.com/MariaDB">
+    <img height="32" width="32" style="background-color:white" src="https://github.com/MariaDB.png" />
 </a>
 <a href="https://github.com/apache/cassandra">
-    <img height="32" width="32" style="background-color:white" src="./etc/cassandra.png" />
+    <img height="32" width="32" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png" />
 </a>
 <a href="https://github.com/sqlite/sqlite">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/48680494?s=32" />
+    <img height="32" width="32" src="https://github.com/sqlite.png" />
 </a>
 <a href="https://cloud.google.com/firestore">
-    <img height="32" width="32" style="background-color:white" src="https://unpkg.com/simple-icons@latest/icons/googlecloud.svg" />
+    <img height="32" width="32" src="https://github.com/firebase.png" />
 </a>
 
 **Other platforms I use:**
 
 <a href="https://gitlab.com/robinbraemer">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/22105643?s=32" />
+    <img height="32" width="32" src="https://github.com/gitlab.png" />
 </a>
 <a href="https://github.com/robinbraemer">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/9919?s=32" />
+    <img height="32" width="32" src="https://github.com/github.png" />
+</a>
+<a href="https://minekube.com/discord">
+    <img height="32" width="32" src="https://github.com/discord.png" />
 </a>
 <a href="https://www.jetbrains.com/">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/878437?s=32" />
+    <img height="32" width="32" src="https://github.com/jetbrains.png" />
 </a>
 <a href="https://cloud.google.com/">
-    <img height="32" width="32" style="background-color:white" src="https://avatars.githubusercontent.com/u/2810941?s=32" />
+    <img height="32" width="32" src="https://github.com/GoogleCloudPlatform.png" />
 </a>
+<a href="https://github.com/superfly">
+    <img height="32" width="32" src="https://github.com/superfly.png" />
+</a>
+<a href="https://github.com/cloudflare">
+    <img height="32" width="32" src="https://github.com/cloudflare.png" />
+</a>
+<a href="https://github.com/linear">
+    <img height="32" width="32" src="https://github.com/linear.png" />
+</a>
+<a href="https://github.com/honeycombio">
+    <img height="32" width="32" src="https://github.com/honeycombio.png" />
+</a>
+<a href="https://github.com/posthog">
+    <img height="32" width="32" src="https://github.com/posthog.png" />
+</a>
+<a href="https://github.com/openai">
+    <img height="32" width="32" src="https://github.com/openai.png" />
+</a>
+
 
 ## Story time
 
