@@ -51,7 +51,7 @@ _In my projects I've learned how to build and scale large, low-cost microservice
 <img height="32" width="32" src="https://github.com/grpc.png" />
 </a>
 <a href="https://github.com/protocolbuffers/protobuf">
-<img height="32" width="32" src="https://gist.github.com/assets/22003767/6a6037ca-e390-4ca1-b4a9-93a6565c045b" />
+<img height="32" width="32" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22003767/304028702-6a6037ca-e390-4ca1-b4a9-93a6565c045b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240614T101023Z&X-Amz-Expires=300&X-Amz-Signature=c1717a2b861b861977f47c29cf4b6467016e649860d614073a25d2f03def3807&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" />
 </a>
 <a href="https://github.com/siderolabs/talos">
     <img height="32" width="32" src="https://github.com/siderolabs.png" />
