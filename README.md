@@ -1,10 +1,11 @@
 # Robin Brämer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-_I'm a full stack software and site reliability engineer with deep expertise in way too many technologies. <br>Let's turning challenges into streamlined systems!_
 
 ![](https://img.shields.io/badge/-Gopher-informational?style=for-the-badge&logo=Go)
 ![](https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes)
 ![](https://img.shields.io/badge/-FinTech-informational?style=for-the-badge&logo=Bitcoin)
 
+
+_I'm a full stack software and site reliability engineer with deep expertise in way too many technologies. <br>Let's turning challenges into streamlined systems!_
 
 ## Experiences
 
