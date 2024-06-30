@@ -216,29 +216,3 @@ The experiences I had accumulated during this time solidified my passion for pro
 With proficiency in multiple programming languages (primarily backend), selling automated chrome browsers for Instagram automation bots, writing a single 222-line SQL query, developing a cloud-ready access control system (such as AWS or Google IAM), designing numerous API services, creating protocol-specific proxy software, constructing my own mini-cloud with a pay-as-you-go billing system, and building complete CI/CD pipelines as a DevOps, I am confident in the skills and accomplishments I have attained between the ages of sixteen and nineteen.
 
 Presently, I am pursuing a degree in software engineering at CODE University, a private institution in Berlin, and am able to afford tuition through a combination of freelance work, professional sports betting, and proceeds from my latest startup. :)
-
-<!--
-**robinbraemer/robinbraemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
--->
