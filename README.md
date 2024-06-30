@@ -72,7 +72,7 @@ _In my projects I've learned how to build and scale large, low-cost microservice
     <img height="32" width="32" src="https://github.com/piraeusdatastore.png" />
 </a>
 <a href="https://github.com/rook/rook">
-<img height="32" width="32" style="background-color:white" src="https://github.com/rook.png" />
+<img height="32" width="32" style="background-color:white" src="https://raw.githubusercontent.com/rook/artwork/d252db9f43753e6abf64db0ce12d38916a5de464/logo/Rook_Icon-white.svg" />
 </a>
 <a href="https://github.com/kubernetes-sigs/kubebuilder">
 <img height="32" width="32" src="https://github.com/kubernetes-sigs.png" />
