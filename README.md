@@ -72,7 +72,7 @@ _In my projects I've learned how to build and scale large, low-cost microservice
     <img height="32" width="32" src="https://github.com/piraeusdatastore.png" />
 </a>
 <a href="https://github.com/rook/rook">
-<img height="32" width="32" style="background-color:white" src="https://raw.githubusercontent.com/rook/artwork/d252db9f43753e6abf64db0ce12d38916a5de464/logo/Rook_Icon-white.svg" />
+<img height="32" width="32" style="background-color:white" src="https://github.com/rook.png" />
 </a>
 <a href="https://github.com/kubernetes-sigs/kubebuilder">
 <img height="32" width="32" src="https://github.com/kubernetes-sigs.png" />
@@ -209,6 +209,10 @@ _I'm also a heavy database nerd and have used every single DB in the following l
 
 I have always been highly enamored with technology, dating back to my tenth year, when I acquired my first laptop and became familiar with fundamental server concepts, and began scripting at the age of twelve, setting up my own server networks.
 
+<details>
+<summary>Continue reading</summary>
+
+
 Between the ages of thirteen and seventeen, I constructed and headed a gaming community (aka MyPvP) comprising approximately five hundred thousand players in total, who played the games I had programmed, utilized my forum websites, and even uploaded YouTube videos about my games. This was a thrilling period for me, as I was able to connect with a vast number of players who shared my passion for building. I had the opportunity to meet a variety of fascinating individuals whom I subsequently recruited to my team, and I was able to observe the competition as others attempted to imitate our ideas. It also served as an enlightening introduction to the realm of digital product sales, marketing, and project management, leading me to establish my first online shop at the age of fourteen. Earning money at such a young age was gratifying, but what truly enthused me was the pure engineering aspect- learning, growing, and constantly pushing the limits of my abilities with an open-minded and insatiable appetite for knowledge, which I still possess to this day.
 
 The experiences I had accumulated during this time solidified my passion for programming and reinforced my belief that with sufficient determination and enthusiasm, I am capable of achieving nearly anything. From that point forward, I set my sights beyond just games, becoming driven by a thirst for knowledge and always on the lookout for the next exciting development on my path to becoming a respected engineer and entrepreneur.
@@ -216,3 +220,6 @@ The experiences I had accumulated during this time solidified my passion for pro
 With proficiency in multiple programming languages (primarily backend), selling automated chrome browsers for Instagram automation bots, writing a single 222-line SQL query, developing a cloud-ready access control system (such as AWS or Google IAM), designing numerous API services, creating protocol-specific proxy software, constructing my own mini-cloud with a pay-as-you-go billing system, and building complete CI/CD pipelines as a DevOps, I am confident in the skills and accomplishments I have attained between the ages of sixteen and nineteen.
 
 Presently, I am pursuing a degree in software engineering at CODE University, a private institution in Berlin, and am able to afford tuition through a combination of freelance work, professional sports betting, and proceeds from my latest startup. :)
+
+    
+</details>
