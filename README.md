@@ -7,6 +7,10 @@
 
 _I'm a full stack software and site reliability engineer with deep expertise in way too many technologies. <br>Let's turning challenges into streamlined systems!_
 
+Checkout my main projects:
+- https://cnap.tech
+- https://minekube.com
+
 ## Experiences
 
 | Category | Technologies *I've learned & applied in projects* |
