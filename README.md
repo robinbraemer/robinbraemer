@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/-FinTech-informational?style=for-the-badge&logo=Bitcoin)
 
 
-_I'm a full stack software and site reliability engineer with deep expertise in way too many technologies. <br>Let's turning challenges into streamlined systems!_
+_I'm a full stack software and site reliability engineer with deep expertise in way too many technologies. <br>Let's turn challenges into streamlined systems!_
 
 ## Checkout main projects:
 - **https://cnap.tech: CNAP | Cloud Native Application Platform** A fully integrated, self-hosted platform for cloud native applications. Simplify app installs, enable team sharing, monetization, and private cloud creation. Ideal for developers, app users, and infra providers.
