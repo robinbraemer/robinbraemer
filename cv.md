@@ -27,24 +27,44 @@ Versatile Full-Stack Software Engineer and Site Reliability Engineer with deep e
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; width: 100%;">
   <a href="https://elefant-makeover-robin.surge.sh/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block; background-color: rgba(249, 250, 251, 0.5); border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; transition: all 0.3s ease;">
-    <h3 style="font-size: 16px; font-weight: 600; margin: 0 0 4px 0; color: #111827;">Elefant AI</h3>
-    <p style="font-size: 14px; margin: 0 0 4px 0; color: #4b5563;">Pioneering AI agents with deep understanding of 3D worlds, enabling intelligent interactions in Minecraft environments</p>
-    <span style="font-size: 14px; color: #2563eb; display: inline-flex; align-items: center;">View Project <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 4px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div>
+        <h3 style="font-size: 16px; font-weight: 600; margin: 0 0 4px 0; color: #111827;">Elefant AI</h3>
+        <p style="font-size: 14px; margin: 0 0 4px 0; color: #4b5563;">Pioneering AI agents with deep understanding of 3D worlds, enabling intelligent interactions in Minecraft environments</p>
+        <span style="font-size: 14px; color: #2563eb; display: inline-flex; align-items: center;">View Project <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 4px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span>
+      </div>
+      <img src="https://quickchart.io/qr?text=https://elefant-makeover-robin.surge.sh/&size=60" alt="QR code for Elefant AI" width="60" height="60" style="margin-left: 8px;">
+    </div>
   </a>
   <a href="https://cnap.tech/developers" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block; background-color: rgba(249, 250, 251, 0.5); border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; transition: all 0.3s ease;">
-    <h3 style="font-size: 16px; font-weight: 600; margin: 0 0 4px 0; color: #111827;">CNAP Technologies</h3>
-    <p style="font-size: 14px; margin: 0 0 4px 0; color: #4b5563;">Developer portal for cloud-native solutions, featuring innovative platform for packaging and deploying applications</p>
-    <span style="font-size: 14px; color: #2563eb; display: inline-flex; align-items: center;">View Project <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 4px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div>
+        <h3 style="font-size: 16px; font-weight: 600; margin: 0 0 4px 0; color: #111827;">CNAP Technologies</h3>
+        <p style="font-size: 14px; margin: 0 0 4px 0; color: #4b5563;">Developer portal for cloud-native solutions, featuring innovative platform for packaging and deploying applications</p>
+        <span style="font-size: 14px; color: #2563eb; display: inline-flex; align-items: center;">View Project <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 4px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span>
+      </div>
+      <img src="https://quickchart.io/qr?text=https://cnap.tech/developers&size=60" alt="QR code for CNAP Technologies" width="60" height="60" style="margin-left: 8px;">
+    </div>
   </a>
   <a href="https://connect.minekube.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block; background-color: rgba(249, 250, 251, 0.5); border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; transition: all 0.3s ease;">
-    <h3 style="font-size: 16px; font-weight: 600; margin: 0 0 4px 0; color: #111827;">Minekube Connect</h3>
-    <p style="font-size: 14px; margin: 0 0 4px 0; color: #4b5563;">Cloud-native Minecraft TCP edge network, providing DDoS protection and global connectivity for game servers</p>
-    <span style="font-size: 14px; color: #2563eb; display: inline-flex; align-items: center;">View Project <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 4px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div>
+        <h3 style="font-size: 16px; font-weight: 600; margin: 0 0 4px 0; color: #111827;">Minekube Connect</h3>
+        <p style="font-size: 14px; margin: 0 0 4px 0; color: #4b5563;">Cloud-native Minecraft TCP edge network, providing DDoS protection and global connectivity for game servers</p>
+        <span style="font-size: 14px; color: #2563eb; display: inline-flex; align-items: center;">View Project <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 4px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span>
+      </div>
+      <img src="https://quickchart.io/qr?text=https://connect.minekube.com/&size=60" alt="QR code for Minekube Connect" width="60" height="60" style="margin-left: 8px;">
+    </div>
   </a>
   <a href="https://app.minekube.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block; background-color: rgba(249, 250, 251, 0.5); border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; transition: all 0.3s ease;">
-    <h3 style="font-size: 16px; font-weight: 600; margin: 0 0 4px 0; color: #111827;">Minekube App</h3>
-    <p style="font-size: 14px; margin: 0 0 4px 0; color: #4b5563;">Comprehensive management dashboard for Minecraft servers, offering advanced tools for server administration</p>
-    <span style="font-size: 14px; color: #2563eb; display: inline-flex; align-items: center;">View Project <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 4px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div>
+        <h3 style="font-size: 16px; font-weight: 600; margin: 0 0 4px 0; color: #111827;">Minekube App</h3>
+        <p style="font-size: 14px; margin: 0 0 4px 0; color: #4b5563;">Comprehensive management dashboard for Minecraft servers, offering advanced tools for server administration</p>
+        <span style="font-size: 14px; color: #2563eb; display: inline-flex; align-items: center;">View Project <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 4px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span>
+      </div>
+      <img src="https://quickchart.io/qr?text=https://app.minekube.com/&size=60" alt="QR code for Minekube App" width="60" height="60" style="margin-left: 8px;">
+    </div>
   </a>
 </div>
 
