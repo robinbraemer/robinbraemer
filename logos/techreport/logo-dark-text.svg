@@ -1,0 +1,10 @@
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .title { font: bold 32px sans-serif; fill: #1a1a1a; } /* Stylistic black */
+        .subtitle { font: 20px sans-serif; fill: #1a1a1a; }
+        .line { stroke: #1a1a1a; stroke-width: 2; }
+    </style>
+    <text x="50%" y="40%" text-anchor="middle" class="title">ROBIN's</text>
+    <text x="50%" y="70%" text-anchor="middle" class="subtitle">TECH REPORT</text>
+    <line x1="15%" y1="80%" x2="85%" y2="80%" class="line" />
+</svg>

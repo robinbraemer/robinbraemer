@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 100 100">
+    <rect width="100" height="100" fill="white" /> <!-- White background -->
+    <style>
+        .text { font: bold 28px sans-serif; fill: #1a1a1a; }  /* Increased font size */
+        .tech { font: 16px sans-serif; fill: #1a1a1a; }   /* Increased font size */
+        .line { stroke: #1a1a1a; stroke-width: 4; }       /* Increased line width */
+    </style>
+    <!-- Text -->
+    <text x="50%" y="38%" text-anchor="middle" class="text">R</text>
+    <!-- Shorter Line -->
+    <line x1="20%" y1="48%" x2="80%" y2="48%" class="line" />
+    <!-- Smaller TECH Text -->
+    <text x="50%" y="70%" text-anchor="middle" class="tech">TECH</text>
+</svg>
