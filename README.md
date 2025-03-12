@@ -6,15 +6,15 @@
 
 _I'm a full stack software and site reliability engineer with deep expertise in way too many technologies. <br>Let's turn challenges into streamlined systems!_
 
-## Checkout main projects:
+## Checkout projects
 
-- **https://cnap.tech: CNAP • Cloud Native Application Platform** A fully integrated, self-hosted platform for cloud native applications. Simplify app installs, enable team sharing, monetization, and private cloud creation. Ideal for developers, app users, and infra providers.
-- **https://minekube.com: Minekube Connect • The Ingress Tunnel for Minecraft Servers** A global gateway to a DDoS-protected Minecraft native Superproxy. A developer platform with public Anycast domains for localhost allowing admins to secure and scale servers/proxies to build durable Minecraft networks in any environment easily.
-
-## Side projects:
-
-- **https://hetzner-value-auctions.cnap.tech/about: Hetzner Value Auctions** • A better way to find the perfect server in Hetzner's Server-Bidding marketplace, powered by real performance metrics and intelligent filtering.
-- **https://gate.minekube.com: Gate** • An extensible, high-performance Minecraft proxy designed for scalability and flexibility.
+| Main projects                                                                            | Name                                                        | Description                                                                                                                                     |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [cnap.tech](https://cnap.tech)                                                           | CNAP • Cloud Native Application Platform                    | A marketplace that simplifies selling hosted software products for SaaS building.                                                               |
+| [minekube.com](https://minekube.com)                                                     | Minekube Connect • The Ingress Tunnel for Minecraft Servers | A DDoS-protected gateway for Minecraft, enabling easy server security and scaling.                                                              |
+| **Side projects**                                                                        |                                                             |
+| [hetzner-value-auctions.cnap.tech/about](https://hetzner-value-auctions.cnap.tech/about) | Hetzner Value Auctions                                      | A better way to find the perfect server in Hetzner's Server-Bidding marketplace, powered by real performance metrics and intelligent filtering. |
+| [gate.minekube.com](https://gate.minekube.com)                                           | Gate                                                        | An extensible, high-performance Minecraft proxy designed for scalability and flexibility.                                                       |
 
 ## Experiences
 
