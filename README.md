@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes)
 ![](https://img.shields.io/badge/-FinTech-informational?style=for-the-badge&logo=Bitcoin)
 
-_I'm a full stack software and site reliability engineer with deep expertise in way too many technologies. <br>Let's turn challenges into streamlined systems!_
+_I'm a founder, full stack software and site reliability engineer with deep expertise in way too many technologies. <br>Let's turn challenges into streamlined systems!_
 
 ## Checkout projects
 
