@@ -48,7 +48,9 @@ Experienced **Full Stack • Platforms Engineer** with a proven track record of 
       <a href="https://cnap.tech">cnap.tech →</a>
     </td>
     <td align="center" width="67%" colspan="2">
-      <img width="2880" height="1502" alt="CNAP platform screenshot" src="https://github.com/user-attachments/assets/0bc292cd-8d29-4a81-8f1c-cb1292d217e3" />
+      <a href="https://cnap.tech">
+        <img width="2880" height="1502" alt="CNAP platform screenshot" src="https://github.com/user-attachments/assets/0bc292cd-8d29-4a81-8f1c-cb1292d217e3" />
+      </a>
     </td>
   </tr>
   <!-- Hetzner Value Auctions Section -->
