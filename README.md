@@ -1,3 +1,294 @@
+<div align="center">
+
+<a href="https://github.com/robinbraemer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&animation=fadeIn"/>
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&animation=fadeIn"/>
+</picture>
+</a>
+
+# Robin Brämer
+
+**Engineer • Founder • Builder**
+
+<!-- Social badges with hover effect -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinbraemer)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:robin.braemer@web.de)
+
+</div>
+
+<br>
+
+> At 12, I wrote my first lines of code. By 17, I had built a gaming community with 500,000 users and led a team of 15. Today, I architect systems serving millions.
+
+Experienced **Full Stack • Platforms Engineer** with a proven track record of building scalable, cloud-native systems. Specialized in **Go**, **TypeScript**, **Kubernetes**, and modern infrastructure patterns. Successfully led projects serving millions of users, from fintech compliance systems to gaming and developer platforms.
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="3">
+      <b>Featured Projects</b>
+    </td>
+  </tr>
+  <!-- CNAP Section -->
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <a href="https://cnap.tech">
+        <img src="https://img.shields.io/badge/CNAP-Tech-EE1B24?style=for-the-badge" alt="CNAP"/>
+      </a>
+      <br/><br/>
+      <b>The Platform for Deploying</b>
+      <br/><br/>
+      A platform for self-hosting, deploying, and selling apps.
+      <br/><br/>
+      <a href="https://cnap.tech">cnap.tech →</a>
+    </td>
+    <td align="center" width="67%" colspan="2">
+      <img width="2880" height="1502" alt="CNAP platform screenshot" src="https://github.com/user-attachments/assets/0bc292cd-8d29-4a81-8f1c-cb1292d217e3" />
+    </td>
+  </tr>
+  <!-- Hetzner Value Auctions Section -->
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <a href="https://hetzner-value-auctions.cnap.tech/about">
+        <img src="https://img.shields.io/badge/Hetzner-Browser-c5272a?style=for-the-badge" alt="Hetzner Value Auctions"/>
+      </a>
+      <br/><br/>
+      <b>Hetzner Value Auctions</b>
+      <br/><br/>
+      Smarter Hetzner server search with real performance data and filters.
+      <br/><br/>
+      <a href="https://hetzner-value-auctions.cnap.tech/about">hetzner-value-auctions.cnap.tech →</a>
+    </td>
+    <td align="center" width="67%" colspan="2">
+      <a href="https://hetzner-value-auctions.cnap.tech/about">
+        <img width="1324" height="747" alt="Hetzner Value Auctions screenshot" src="https://github.com/user-attachments/assets/10c30f6d-3c0f-44f8-b8d5-7b759b43232f" style="max-width: 400px; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <!-- Minekube Connect Section -->
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <a href="https://connect.minekube.com">
+        <img src="https://img.shields.io/badge/Minekube-Connect-f57c00?style=for-the-badge" alt="Minekube"/>
+      </a>
+      <br/><br/>
+      <b>The Cloudflare for Gaming</b>
+      <br/><br/>
+      DDoS-protected tunnel for Minecraft. Zero-config, global.
+      <br/><br/>
+      <a href="https://connect.minekube.com">connect.minekube.com →</a>
+    </td>
+    <td align="center" width="67%" colspan="2">
+      <a href="https://connect.minekube.com">
+        <img width="1324" height="684" alt="Minekube Connect screenshot" src="https://github.com/user-attachments/assets/1067cd7b-ba80-4ee0-960c-b4c6e810f2e3" style="max-width: 400px; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <!-- Minekube AI Servers Section -->
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <a href="https://minekube.com">
+        <img src="https://img.shields.io/badge/Minekube-AI%20Servers-6366f1?style=for-the-badge" alt="Minekube AI Servers"/>
+      </a>
+      <br/><br/>
+      <b>AI Minecraft Servers</b>
+      <br/><br/>
+      Create, and customize Minecraft servers with AI. Just chat ingame.
+      <br/><br/>
+      <a href="https://minekube.com">minekube.com →</a>
+    </td>
+    <td align="center" width="67%" colspan="2">
+      <a href="https://minekube.com">
+        <img width="1324" height="684" alt="Minekube AI Servers screenshot" src="https://github.com/user-attachments/assets/6bff508a-6fa8-4230-a7f4-020acb76328a" style="max-width: 400px; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <!-- Gate Project Section -->
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <a href="https://gate.minekube.com">
+        <img src="https://img.shields.io/badge/Gate-Proxy-3ba3e6?style=for-the-badge" alt="Gate"/>
+      </a>
+      <br/><br/>
+      <b>High-Performance Proxy</b>
+      <br/><br/>
+      A high-performance, scalable Minecraft proxy in Go.
+      <br/><br/>
+      <a href="https://gate.minekube.com">gate.minekube.com →</a>
+    </td>
+    <td align="center" width="67%" colspan="2">
+      <a href="https://gate.minekube.com">
+        <img width="811" height="442" alt="image" src="https://github.com/user-attachments/assets/d6d7714d-d26d-4a28-9899-88b839802cdc" style="max-width: 400px; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical DNA
+
+<div align="center">
+
+<!-- Tech stack with skillicons - https://skillicons.dev -->
+<img src="https://skillicons.dev/icons?i=go,ts,svelte,java,python,bash&perline=6" />
+<br><sub>Languages</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,cloudflare,prometheus,grafana,terraform,ansible&perline=8" />
+<br><sub>Infrastructure & Cloud</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,cassandra,sqlite,firebase,graphql&perline=7" />
+<br><sub>Databases</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,idea,vscode,discord&perline=7" />
+<br><sub>Tools & Platforms</sub>
+
+
+<details>
+<summary><b>More Technologies I've Used</b></summary>
+<br>
+
+<table>
+<tr>
+<td colspan="7" align="center"><b>Cloud Native & CNCF</b></td>
+</tr>
+<tr>
+<td align="center" width="80"><a href="https://github.com/grpc"><img height="40" width="40" src="https://github.com/grpc.png" /></a><br><sub>gRPC</sub></td>
+<td align="center" width="80"><a href="https://github.com/protocolbuffers/protobuf"><img height="40" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_protobuf.svg" /></a><br><sub>Protobuf</sub></td>
+<td align="center" width="80"><a href="https://github.com/istio/istio"><img height="40" width="40" src="https://github.com/istio.png" /></a><br><sub>Istio</sub></td>
+<td align="center" width="80"><a href="https://github.com/cilium/cilium"><img height="40" width="40" src="https://github.com/cilium.png" /></a><br><sub>Cilium</sub></td>
+<td align="center" width="80"><a href="https://github.com/argoproj"><img height="40" width="40" src="https://github.com/argoproj.png" /></a><br><sub>ArgoCD</sub></td>
+<td align="center" width="80"><a href="https://github.com/fluxcd"><img height="40" width="40" src="https://github.com/fluxcd.png" /></a><br><sub>FluxCD</sub></td>
+<td align="center" width="80"><a href="https://github.com/containerd/containerd"><img height="40" width="40" src="https://github.com/containerd.png" /></a><br><sub>containerd</sub></td>
+</tr>
+<tr>
+<td align="center" width="80"><a href="https://github.com/siderolabs/talos"><img height="40" width="40" src="https://github.com/siderolabs.png" /></a><br><sub>Talos</sub></td>
+<td align="center" width="80"><a href="https://github.com/nats-io"><img height="40" width="40" src="https://github.com/nats-io.png" /></a><br><sub>NATS</sub></td>
+<td align="center" width="80"><a href="https://github.com/open-policy-agent/opa"><img height="40" width="40" src="https://github.com/open-policy-agent.png" /></a><br><sub>OPA</sub></td>
+<td align="center" width="80"><a href="https://github.com/kubevirt/kubevirt"><img height="40" width="40" src="https://github.com/kubevirt.png" /></a><br><sub>KubeVirt</sub></td>
+<td align="center" width="80"><a href="https://github.com/rancher/rancher"><img height="40" width="40" src="https://github.com/rancher.png" /></a><br><sub>Rancher</sub></td>
+<td align="center" width="80"><a href="https://github.com/loft-sh/vcluster"><img height="40" width="40" src="https://github.com/loft-sh.png" /></a><br><sub>vCluster</sub></td>
+<td align="center" width="80"><a href="https://github.com/operator-framework/operator-sdk"><img height="40" width="40" src="https://github.com/operator-framework.png" /></a><br><sub>Operator SDK</sub></td>
+</tr>
+<tr>
+<td colspan="7" align="center"><b>Databases & Storage</b></td>
+</tr>
+<tr>
+<td align="center" width="80"><a href="https://github.com/cockroachdb/cockroach"><img height="40" width="40" src="https://github.com/cockroachdb.png" /></a><br><sub>CockroachDB</sub></td>
+<td align="center" width="80"><a href="https://github.com/etcd-io/etcd"><img height="40" width="40" src="https://github.com/etcd-io.png" /></a><br><sub>etcd</sub></td>
+<td align="center" width="80"><a href="https://github.com/dgraph-io/badger"><img height="40" width="40" src="https://github.com/dgraph-io.png" /></a><br><sub>Badger</sub></td>
+<td align="center" width="80"><a href="https://github.com/couchbase"><img height="40" width="40" src="https://github.com/couchbase.png" /></a><br><sub>Couchbase</sub></td>
+<td align="center" width="80"><a href="https://github.com/MariaDB"><img height="40" width="40" src="https://github.com/MariaDB.png" /></a><br><sub>MariaDB</sub></td>
+<td align="center" width="80"><a href="https://github.com/rook/rook"><img height="40" width="40" src="https://github.com/rook.png" /></a><br><sub>Rook</sub></td>
+<td align="center" width="80"><a href="https://github.com/piraeusdatastore/piraeus-operator"><img height="40" width="40" src="https://github.com/piraeusdatastore.png" /></a><br><sub>Piraeus</sub></td>
+</tr>
+<tr>
+<td colspan="7" align="center"><b>Platforms & Services</b></td>
+</tr>
+<tr>
+<td align="center" width="80"><a href="https://github.com/superfly"><img height="40" width="40" src="https://github.com/superfly.png" /></a><br><sub>Fly.io</sub></td>
+<td align="center" width="80"><a href="https://github.com/linear"><img height="40" width="40" src="https://github.com/linear.png" /></a><br><sub>Linear</sub></td>
+<td align="center" width="80"><a href="https://github.com/honeycombio"><img height="40" width="40" src="https://github.com/honeycombio.png" /></a><br><sub>Honeycomb</sub></td>
+<td align="center" width="80"><a href="https://github.com/posthog"><img height="40" width="40" src="https://github.com/posthog.png" /></a><br><sub>PostHog</sub></td>
+<td align="center" width="80"><a href="https://github.com/openai"><img height="40" width="40" src="https://github.com/openai.png" /></a><br><sub>OpenAI</sub></td>
+<td align="center" width="80"><a href="https://github.com/anthropics"><img height="40" width="40" src="https://github.com/anthropics.png" /></a><br><sub>Anthropic</sub></td>
+<td align="center" width="80"></td>
+</tr>
+</table>
+
+</details>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center"><b>💻 Languages</b></td>
+<td align="center"><b>☁️ Infrastructure</b></td>
+<td align="center"><b>🗄️ Databases</b></td>
+</tr>
+<tr>
+<td align="center">
+Go (5+ yrs)<br>
+TypeScript (4+ yrs)<br>
+Svelte (2+ yrs)<br>
+Java (8+ yrs)
+</td>
+<td align="center">
+Kubernetes<br>
+gRPC / Istio / Cilium<br>
+ArgoCD / FluxCD<br>
+Prometheus / Grafana
+</td>
+<td align="center">
+CockroachDB<br>
+PostgreSQL<br>
+Redis<br>
+etcd
+</td>
+</tr>
+</table>
+
+## Professional Path & Impact
+
+<table>
+<tr>
+<th width="20%">Company</th>
+<th width="45%">My Impact</th>
+<th width="35%">Details</th>
+</tr>
+<tr>
+<td><b>CNAP</b><br>2024-Present</td>
+<td>Founder — Cloud app deployment platform. Building SaaS marketplace for self-hosting & selling apps</td>
+<td><details><summary>More</summary>• Platform for packaging, deploying, and selling applications<br>• Self-hosting infrastructure for developers<br>• SaaS marketplace capabilities</details></td>
+</tr>
+<tr>
+<td><b>Elefant AI</b><br>2024</td>
+<td>AI agents in 3D worlds. Developed AI Minecraft agent; integrated Gate proxy</td>
+<td><details><summary>More</summary>• Implemented Gate proxy into agent system<br>• Developed AI Minecraft agent<br>• Feature development, bug fixes, code cleanup<br>• Assisted with Minecraft community entry</details></td>
+</tr>
+<tr>
+<td><b>CubeCraft</b><br>2024</td>
+<td>Kubernetes-based game hosting. Scaled infrastructure for <b>millions</b> of players</td>
+<td><details><summary>More</summary>• Built system using Kubernetes & Java Operator Framework<br>• Designed APIs for hosting platform<br>• Automated deployment & scaling mechanisms<br>• Created monitoring & alerting systems<br>• Optimized resource allocation</details></td>
+</tr>
+<tr>
+<td><b>SumUp</b><br>2022-2023</td>
+<td>Developer platforms & fintech compliance. <b>30%</b> faster onboarding, <b>25%</b> compliance boost, <b>800+</b> engineers on portal</td>
+<td><details><summary>More</summary>• Built "SumUp Backstage" internal developer portal<br>• Architected Compliance Alert Engine with Temporal<br>• Co-founded observability improvements team<br>• Automated onboarding for 2,000 Git projects<br>• Migrated 800 GitHub teams to new structure</details></td>
+</tr>
+<tr>
+<td><b>JustChunks</b><br>2021-2023</td>
+<td>Game backend microservices. Scalable architecture, CI/CD pipelines, Agones matchmaking</td>
+<td><details><summary>More</summary>• Engineered scalable microservices architecture<br>• Implemented Kubernetes deployments for game servers<br>• Developed CI/CD pipelines<br>• Built configurable matchmaking system using Agones<br>• Monitoring & logging solutions</details></td>
+</tr>
+<tr>
+<td><b>Minekube</b><br>2018-Present</td>
+<td>Founder — Cloud-native Minecraft infra. Gate proxy (<b>50%</b> perf boost), <b>106+</b> OSS contributions, millions served</td>
+<td><details><summary>More</summary>• Developed Minekube Connect cloud-native TCP edge network<br>• Created Gate high-performance reverse proxy<br>• DDoS-protected developer platform<br>• Leading team of developers<br>• Positioned as "The Cloudflare for Minecraft"</details></td>
+</tr>
+<tr>
+<td><b>MyPvP</b><br>2014-2018</td>
+<td>Founder — SkyPvP gaming network. <b>500K+</b> registered players, led team of <b>15</b></td>
+<td><details><summary>More</summary>• Founded prominent SkyPvP Java edition game network<br>• Managed community of 400 avg concurrent players<br>• Led team of 15 members<br>• First online shop at age 14</details></td>
+</tr>
+</table>
+
+---
+
+<details>
+<summary><b>📜 Old README (Reference)</b></summary>
+
 # Robin Brämer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ![](https://img.shields.io/badge/-Gopher-informational?style=for-the-badge&logo=Go)
@@ -71,3 +362,7 @@ With proficiency in multiple programming languages (primarily backend), selling 
 Presently, I am pursuing a degree in software engineering at CODE University, a private institution in Berlin, and am able to afford tuition through a combination of freelance work, professional sports betting, and proceeds from my latest startup. :)
 
 </details>
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:667eea,100:764ba2&height=100&section=footer"/>
