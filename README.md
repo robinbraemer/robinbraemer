@@ -23,7 +23,7 @@
 
 > At 12, I wrote my first lines of code. By 17, I had built a gaming community with 500,000 users and led a team of 15. Today, I architect systems serving millions.
 
-Experienced **Full Stack • Platforms Engineer** with a proven track record of building scalable, cloud-native systems. Specialized in **Go**, **TypeScript**, **Kubernetes**, and modern infrastructure patterns. Successfully led projects serving millions of users, from fintech compliance systems to gaming and developer platforms.
+Experienced **Full Stack • Platforms Engineer** with a proven track record of building scalable, cloud-native systems. Specialized in **Go**, **TypeScript**, **Kubernetes**, **Svelte**, and modern infrastructure patterns. Successfully led projects serving millions of users, from fintech compliance systems to gaming and developer platforms.
 
 <br>
 
@@ -149,9 +149,11 @@ Experienced **Full Stack • Platforms Engineer** with a proven track record of 
 <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,cassandra,sqlite,firebase,graphql&perline=7" />
 <br><sub>Databases</sub>
 <br><br>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,nextjs,react&perline=5" />
+<br><sub>Frontend</sub>
+<br><br>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,idea,vscode,discord&perline=7" />
 <br><sub>Tools & Platforms</sub>
-
 
 <details>
 <summary><b>More Technologies I've Used</b></summary>
