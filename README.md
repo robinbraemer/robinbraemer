@@ -273,7 +273,7 @@ etcd
 </tr>
 <tr>
 <td><b>CNAP</b><br>2024-Present</td>
-<td>Founder — Cloud app deployment platform. Building SaaS marketplace for self-hosting & selling apps</td>
+<td>Founder — Cloud app deployment platform. Building SaaS marketplace for self-hosting & selling software services</td>
 <td><details><summary>More</summary>• Platform for packaging, deploying, and selling applications<br>• Self-hosting infrastructure for developers<br>• SaaS marketplace capabilities</details></td>
 </tr>
 <tr>
