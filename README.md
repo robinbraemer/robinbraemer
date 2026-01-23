@@ -43,7 +43,7 @@ Experienced **Full Stack • Platforms Engineer** with a proven track record of 
       <br/><br/>
       <b>The Platform for Deploying</b>
       <br/><br/>
-      A platform for self-hosting, deploying, and selling apps.
+      A platform for self-hosting, deploying, and selling software services.
       <br/><br/>
       <a href="https://cnap.tech">cnap.tech →</a>
     </td>
@@ -273,7 +273,7 @@ etcd
 </tr>
 <tr>
 <td><b>CNAP</b><br>2024-Present</td>
-<td>Founder — Cloud app deployment platform. Building SaaS marketplace for self-hosting & selling software services</td>
+<td>Founder — Cloud app deployment platform. Building SaaS marketplace for self-hosting & selling software service</td>
 <td><details><summary>More</summary>• Platform for packaging, deploying, and selling applications<br>• Self-hosting infrastructure for developers<br>• SaaS marketplace capabilities</details></td>
 </tr>
 <tr>
