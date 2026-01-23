@@ -73,6 +73,26 @@ Experienced **Full Stack • Platforms Engineer** with a proven track record of 
       </a>
     </td>
   </tr>
+  <!-- Dribble Section -->
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <a href="https://dribblesports.com">
+        <img src="https://img.shields.io/badge/Dribble-Sports-000000?style=for-the-badge" alt="Dribble"/>
+      </a>
+      <br/><br/>
+      <b>More Than Just Watching</b>
+      <br/><br/>
+      Real-time chatrooms. Synchronized polls and reactions for live games.
+      <br/><br/>
+      <a href="https://dribblesports.com">dribblesports.com →</a>
+    </td>
+    <td align="center" width="67%" colspan="2">
+      <a href="https://dribblesports.com">
+        <img width="1437" height="749" alt="image" src="https://github.com/user-attachments/assets/7de0f960-adb0-450d-813c-a0495cbfb301" style="max-width: 400px; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
   <!-- Minekube Connect Section -->
   <tr>
     <td align="center" width="33%">
