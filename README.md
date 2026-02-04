@@ -89,7 +89,7 @@ Experienced **Full Stack • Platforms Engineer** with a proven track record of 
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://dribblesports.com">
-        <img width="1437" height="749" alt="image" src="https://github.com/user-attachments/assets/7de0f960-adb0-450d-813c-a0495cbfb301" style="max-width: 400px; border-radius: 10px;" />
+        <img width="1505" height="822" alt="image" src="https://github.com/user-attachments/assets/d46dba6f-9f2b-4f99-aa9a-650d963e0e6c" style="max-width: 400px; border-radius: 10px;" />
       </a>
     </td>
   </tr>
