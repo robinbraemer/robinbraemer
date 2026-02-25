@@ -49,7 +49,7 @@ Experienced **Full Stack • Platforms Engineer** with a proven track record of 
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://cnap.tech">
-        <img width="2880" height="1502" alt="CNAP platform screenshot" src="https://github.com/user-attachments/assets/0bc292cd-8d29-4a81-8f1c-cb1292d217e3" />
+        <img width="1508" height="821" alt="CNAP platform screenshot" src="https://github.com/user-attachments/assets/75642c63-c248-4066-9719-87b9fe116310" />
       </a>
     </td>
   </tr>
