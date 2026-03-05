@@ -235,33 +235,6 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center"><b>💻 Languages</b></td>
-<td align="center"><b>☁️ Infrastructure</b></td>
-<td align="center"><b>🗄️ Databases</b></td>
-</tr>
-<tr>
-<td align="center">
-Go (7+ yrs)<br>
-TypeScript (5+ yrs)<br>
-Svelte (3+ yrs)<br>
-Java (12+ yrs)
-</td>
-<td align="center">
-Kubernetes<br>
-gRPC / Istio / Cilium<br>
-ArgoCD / FluxCD<br>
-Prometheus / Grafana
-</td>
-<td align="center">
-CockroachDB<br>
-PostgreSQL<br>
-Redis<br>
-etcd
-</td>
-</tr>
-</table>
 
 ## Professional Path & Impact
 
