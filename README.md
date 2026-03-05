@@ -23,7 +23,7 @@
 
 > At 12, I wrote my first lines of code. By 17, I had built a gaming community with 500,000 users and led a team of 15. Today, I architect systems serving millions.
 
-Experienced **Full Stack • Platforms Engineer** with a proven track record of building scalable, cloud-native systems. Specialized in **Go**, **TypeScript**, **Kubernetes**, **Svelte**, and modern infrastructure patterns. Successfully led projects serving millions of users, from fintech compliance systems to gaming and developer platforms.
+Experienced **Full Stack • Platform Engineer** with a proven track record of building scalable, cloud-native systems. Specialized in **Go**, **Kubernetes**, **Terraform**, **TypeScript**, and modern infrastructure patterns. Successfully led projects serving millions of users, from fintech compliance systems to cloud platforms and developer tooling.
 
 <br>
 
@@ -243,10 +243,10 @@ Experienced **Full Stack • Platforms Engineer** with a proven track record of 
 </tr>
 <tr>
 <td align="center">
-Go (5+ yrs)<br>
-TypeScript (4+ yrs)<br>
-Svelte (2+ yrs)<br>
-Java (8+ yrs)
+Go (7+ yrs)<br>
+TypeScript (5+ yrs)<br>
+Svelte (3+ yrs)<br>
+Java (12+ yrs)
 </td>
 <td align="center">
 Kubernetes<br>
@@ -272,12 +272,12 @@ etcd
 <th width="35%">Details</th>
 </tr>
 <tr>
-<td><b>CNAP</b><br>2024-Present</td>
-<td>Founder — Cloud app deployment platform. Building SaaS marketplace for self-hosting & selling software service</td>
-<td><details><summary>More</summary>• Platform for packaging, deploying, and selling applications<br>• Self-hosting infrastructure for developers<br>• SaaS marketplace capabilities</details></td>
+<td><b>Sovereign Cloud Provider</b><br>2026-Present</td>
+<td>SRE & Platform Engineer — Building managed database services for a major European cloud platform. Go, Kubernetes, FluxCD, Terraform at scale</td>
+<td><details><summary>More</summary>• Database engineering platform team<br>• Large-scale infrastructure (hundreds of thousands of cores, tens of thousands of VMs)<br>• Go, Kubernetes, FluxCD, Helm, Terraform<br>• Prometheus, VictoriaMetrics, Grafana, OpenTelemetry</details></td>
 </tr>
 <tr>
-<td><b>Elefant AI</b><br>2024</td>
+<td><b>Elefant AI</b><br>2024-2025</td>
 <td>AI agents in 3D worlds. Developed AI Minecraft agent; integrated Gate proxy</td>
 <td><details><summary>More</summary>• Implemented Gate proxy into agent system<br>• Developed AI Minecraft agent<br>• Feature development, bug fixes, code cleanup<br>• Assisted with Minecraft community entry</details></td>
 </tr>
@@ -296,14 +296,23 @@ etcd
 <td>Game backend microservices. Scalable architecture, CI/CD pipelines, Agones matchmaking</td>
 <td><details><summary>More</summary>• Engineered scalable microservices architecture<br>• Implemented Kubernetes deployments for game servers<br>• Developed CI/CD pipelines<br>• Built configurable matchmaking system using Agones<br>• Monitoring & logging solutions</details></td>
 </tr>
+<!-- Side Projects & Open Source -->
+<tr>
+<td align="center" colspan="3"><br><b>Side Projects & Open Source</b></td>
+</tr>
+<tr>
+<td><b>CNAP</b><br>2024-Present</td>
+<td>Founder — Cloud app deployment platform. Building SaaS marketplace for self-hosting & selling software services</td>
+<td><details><summary>More</summary>• Platform for packaging, deploying, and selling applications<br>• Self-hosting infrastructure for developers<br>• SaaS marketplace capabilities</details></td>
+</tr>
 <tr>
 <td><b>Minekube</b><br>2018-Present</td>
-<td>Founder — Cloud-native Minecraft infra. Gate proxy (<b>50%</b> perf boost), <b>106+</b> OSS contributions, millions served</td>
+<td>Founder — Cloud-native Minecraft infra. Gate proxy (<b>50%</b> perf boost), <b>100+</b> OSS contributions, millions served</td>
 <td><details><summary>More</summary>• Developed Minekube Connect cloud-native TCP edge network<br>• Created Gate high-performance reverse proxy<br>• DDoS-protected developer platform<br>• Leading team of developers<br>• Positioned as "The Cloudflare for Minecraft"</details></td>
 </tr>
 <tr>
 <td><b>MyPvP</b><br>2014-2018</td>
-<td>Founder — SkyPvP gaming network. <b>500K+</b> registered players, led team of <b>15</b></td>
+<td>Founded SkyPvP gaming network. <b>500K+</b> registered players, led team of <b>15</b></td>
 <td><details><summary>More</summary>• Founded prominent SkyPvP Java edition game network<br>• Managed community of 400 avg concurrent players<br>• Led team of 15 members<br>• First online shop at age 14</details></td>
 </tr>
 </table>

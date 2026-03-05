@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "bun generate.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^24.38.0"
+  }
+}
