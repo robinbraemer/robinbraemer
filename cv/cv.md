@@ -4,7 +4,7 @@
 
 ## SUMMARY
 
-Senior Golang & Kubernetes Engineer with 7+ years Go and 6+ years Kubernetes production experience. Built production systems serving 2.39M+ requests/month with 885+ GitHub stars on open-source projects. Expert in Kubernetes Operators, Helm charts, GitOps workflows (Argo CD), and observability stacks (Prometheus, Grafana). Previously built internal developer portals and compliance systems at SumUp serving 800+ engineers, and designed Kubernetes-based hosting infrastructure for millions of players. German (native), English (fluent).
+Senior Golang & Kubernetes Engineer with 7+ years Go and 6+ years Kubernetes production experience. Built production systems serving 2.39M+ requests/month with 975+ GitHub stars on open-source projects. Expert in Kubernetes Operators, Helm charts, GitOps workflows (Argo CD), and observability stacks (Prometheus, Grafana). Previously built internal developer portals and compliance systems at SumUp serving 800+ engineers, and designed Kubernetes-based hosting infrastructure for millions of players. German (native), English (fluent).
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -17,7 +17,7 @@ Senior Golang & Kubernetes Engineer with 7+ years Go and 6+ years Kubernetes pro
 
 **Elefant AI** United States
 *Software Engineer (Remote)* July 2024 - December 2025
-- Integrated open-source Gate proxy (885+ stars) into production Kubernetes infrastructure for AI agent system.
+- Integrated open-source Gate proxy (975+ stars) into production Kubernetes infrastructure for AI agent system.
 - Developed cloud-native AI Minecraft agents with containerized microservices architecture on Kubernetes.
 - Implemented CI/CD pipelines with GitHub Actions for automated Kubernetes deployments.
 - Built monitoring and observability solutions for distributed AI workloads.
@@ -46,7 +46,7 @@ Senior Golang & Kubernetes Engineer with 7+ years Go and 6+ years Kubernetes pro
 
 ## PROJECTS & OUTSIDE EXPERIENCE
 
-**Gate** — High-Performance Minecraft Proxy (885+ GitHub stars)
+**Gate** — High-Performance Minecraft Proxy (975+ GitHub stars)
 *Go, gRPC, Protocol Buffers, Kubernetes, Helm, Fly.io*
 - Production-grade Go reverse proxy serving 2.39M+ requests/month with sub-50ms p95 latency for millions of connections.
 - Cloud-native architecture with Helm charts, Kubernetes health checks, readiness probes, and graceful shutdown patterns.
