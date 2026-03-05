@@ -10,8 +10,9 @@ Senior Golang & Kubernetes Engineer with 7+ years Go and 6+ years Kubernetes pro
 
 **Sovereign European Cloud Provider** Remote
 *Golang Software Engineer / SRE / DevOps* January 2026 - Present
-- Building managed database services on a major sovereign cloud platform operating at infrastructure scale with hundreds of thousands of cores and tens of thousands of VMs across 7 data centers.
-- Developing platform tooling using Go, Kubernetes, FluxCD, Helm, and Terraform within a database engineering team of ~30-35 active contributors.
+- Building infrastructure automation and Kubernetes Operators for provisioning managed database clusters across multiple regions, orchestrating management clusters and worker clusters at scale.
+- Operating on a major sovereign cloud platform with hundreds of thousands of cores and tens of thousands of VMs across 7 data centers, within a database engineering team of ~30-35 contributors.
+- Developing platform tooling using Go, Kubernetes, FluxCD, Helm, and Terraform for automated multi-region cluster lifecycle management.
 - Implementing observability solutions with Prometheus, VictoriaMetrics, Grafana, and OpenTelemetry, improving system visibility and incident response.
 - Engineering CI/CD pipelines using GitLab CI, Earthly, and ArgoCD for reliable and reproducible deployments.
 
