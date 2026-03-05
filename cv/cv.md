@@ -85,7 +85,7 @@ Senior Golang & Kubernetes Engineer with 7+ years Go and 6+ years Kubernetes pro
 ## SKILLS
 
 **Languages:** Go/Golang (7+ years), TypeScript (5+ years), Java (12+ years), Python, Svelte, Shell Scripting
-**Cloud Native:** Kubernetes (6+ years), Helm, Kubernetes Operators & CRDs, Argo CD, FluxCD, Istio, Cilium, Agones, Containerd, Temporal
+**Cloud Native:** Kubernetes (6+ years), Helm, Kubernetes Operators & CRDs, Argo CD, FluxCD, Istio, Cilium, Kyverno, Vault, Agones, Containerd, Temporal
 **DevOps & CI/CD:** Docker, Terraform, GitOps, GitHub Actions, GitLab CI, Earthly, Blue-Green Deployments, Infrastructure as Code
 **Observability:** Prometheus, Grafana, Loki, Mimir, VictoriaMetrics, OpenTelemetry, Distributed Tracing, Backstage
 **Databases:** CockroachDB, PostgreSQL, Redis, etcd, Cassandra, MySQL
