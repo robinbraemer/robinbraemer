@@ -23,7 +23,7 @@
 
 > At 12, I wrote my first lines of code. By 17, I had built a gaming community with 500,000 users and led a team of 15. Today, I architect systems serving millions.
 
-Experienced **Full Stack • Platform Engineer** with a proven track record of building scalable, cloud-native systems. Specialized in **Go**, **Kubernetes**, **Terraform**, **TypeScript**, and modern infrastructure patterns. Successfully led projects serving millions of users, from fintech compliance systems to cloud platforms and developer tooling.
+Experienced **Full Stack • Platform Engineer** with a proven track record of building scalable, cloud-native systems. Specialized in **Go**, **Kubernetes**, **Temporal**, **TypeScript**, **SvelteKit**, and modern infrastructure patterns. Successfully led projects serving millions of users, from fintech compliance systems to cloud platforms and developer tooling.
 
 <br>
 
