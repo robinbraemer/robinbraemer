@@ -37,19 +37,19 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
   <tr>
     <td align="center" width="33%">
       <br/>
-      <a href="https://cnap.tech">
-        <img src="https://img.shields.io/badge/CNAP-Tech-EE1B24?style=for-the-badge" alt="CNAP"/>
+      <a href="https://akua.dev/docs">
+        <img src="https://img.shields.io/badge/Akua-Cloud-5196CD?style=for-the-badge" alt="Akua"/>
       </a>
       <br/><br/>
-      <b>The Platform for Deploying</b>
+      <b>Agentic Cloud Platform</b>
       <br/><br/>
-      A platform for self-hosting, deploying, and selling software services.
+      Build self-hosted clouds, sell software products.
       <br/><br/>
-      <a href="https://cnap.tech">cnap.tech →</a>
+      <a href="https://docs.akua.dev">akua.dev →</a>
     </td>
     <td align="center" width="67%" colspan="2">
-      <a href="https://cnap.tech">
-        <img width="1508" height="821" alt="CNAP platform screenshot" src="https://github.com/user-attachments/assets/75642c63-c248-4066-9719-87b9fe116310" />
+      <a href="https://akua.dev">
+        <img width="1508" height="821" alt="Akua platform screenshot" src="https://github.com/user-attachments/assets/2874eacd-e16b-403b-8054-67d73424d286" />
       </a>
     </td>
   </tr>
