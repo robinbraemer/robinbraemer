@@ -33,7 +33,27 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
       <b>Featured Projects</b>
     </td>
   </tr>
-  <!-- CNAP Section -->
+  <!-- AgentOS Section -->
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <a href="https://agentos.akua.dev">
+        <img src="https://img.shields.io/badge/Agent-OS-F7F680?style=for-the-badge" alt="Akua"/>
+      </a>
+      <br/><br/>
+      <b>Self-driving company harness</b>
+      <br/><br/>
+      Build autonomous companies.
+      <br/><br/>
+      <a href="https://agentos.akua.dev">agentos.akua.dev →</a>
+    </td>
+    <td align="center" width="67%" colspan="2">
+      <a href="https://agentos.akua.dev">
+        <img width="1128" height="617" alt="AgentOS" src="https://github.com/user-attachments/assets/f431896b-5b91-49a1-b154-728c8cdb38a3" />
+      </a>
+    </td>
+  </tr>
+  <!-- Akua Section -->
   <tr>
     <td align="center" width="33%">
       <br/>
