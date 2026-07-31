@@ -77,7 +77,7 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
   <tr>
     <td align="center" width="33%">
       <br/>
-      <a href="https://hetzner-value-auctions.cnap.tech/about">
+      <a href="https://auction.akua.dev/about">
         <img src="https://img.shields.io/badge/Hetzner-Browser-c5272a?style=for-the-badge" alt="Hetzner Value Auctions"/>
       </a>
       <br/><br/>
@@ -85,10 +85,10 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
       <br/><br/>
       Smarter Hetzner server search with real performance data and filters.
       <br/><br/>
-      <a href="https://hetzner-value-auctions.cnap.tech/about">hetzner-value-auctions.cnap.tech →</a>
+      <a href="https://auction.akua.dev/about">hetzner-value-auctions.cnap.tech →</a>
     </td>
     <td align="center" width="67%" colspan="2">
-      <a href="https://hetzner-value-auctions.cnap.tech/about">
+      <a href="https://auction.akua.dev/about">
         <img width="1324" height="747" alt="Hetzner Value Auctions screenshot" src="https://github.com/user-attachments/assets/10c30f6d-3c0f-44f8-b8d5-7b759b43232f" style="max-width: 400px; border-radius: 10px;" />
       </a>
     </td>
