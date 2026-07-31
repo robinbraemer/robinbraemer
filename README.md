@@ -85,7 +85,7 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
       <br/><br/>
       Smarter Hetzner server search with real performance data and filters.
       <br/><br/>
-      <a href="https://auction.akua.dev/about">hetzner-value-auctions.cnap.tech →</a>
+      <a href="https://auction.akua.dev/about">auction.akua.dev →</a>
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://auction.akua.dev/about">
@@ -215,7 +215,7 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
 <td align="center" colspan="3"><br><b>Side Projects & Open Source</b></td>
 </tr>
 <tr>
-<td><b>CNAP</b><br>2024-Present</td>
+<td><b>Akua</b><br>2024-Present</td>
 <td>Founder — Cloud app deployment platform. Building SaaS marketplace for self-hosting & selling software services</td>
 <td><details><summary>More</summary>• Platform for packaging, deploying, and selling applications<br>• Self-hosting infrastructure for developers<br>• SaaS marketplace capabilities</details></td>
 </tr>
