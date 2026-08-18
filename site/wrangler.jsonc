@@ -1,0 +1,17 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "robinbraemer",
+  "compatibility_date": "2026-08-14",
+  "routes": [
+    {
+      "pattern": "robin.heyreis.com",
+      "custom_domain": true
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "PROFILE_KV",
+      "id": "b25a7ca54f7245f0a8bec9518abce641"
+    }
+  ]
+}
