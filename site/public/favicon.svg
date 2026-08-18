@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <clipPath id="roundedSquare">
+      <rect x="0" y="0" width="64" height="64" rx="14" ry="14" />
+    </clipPath>
+  </defs>
+  <image
+    href="https://avatars.githubusercontent.com/u/22003767?v=4"
+    x="0"
+    y="0"
+    width="64"
+    height="64"
+    clip-path="url(#roundedSquare)"
+    preserveAspectRatio="xMidYMid slice"
+  />
+</svg>

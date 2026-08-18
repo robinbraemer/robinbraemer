@@ -21,6 +21,14 @@ const work = [
 ]
 
 const toPublicPath = (image: string) => "/" + image.replace(/^site\/public\//, "")
+// pick readable text over a given badge hex background instead of hardcoding dark text
+const badgeTextClass = (hex: string) => {
+  const r = parseInt(hex.slice(0, 2), 16)
+  const g = parseInt(hex.slice(2, 4), 16)
+  const b = parseInt(hex.slice(4, 6), 16)
+  const luminance = (r * 299 + g * 587 + b * 114) / 1000
+  return luminance > 140 ? "text-stone-900" : "text-stone-50"
+}
 // bioLong carries **bold** markdown for the README; strip it for plain-text display here
 const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
 ---
@@ -100,7 +108,7 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
                 class="aspect-video w-full rounded-lg border border-stone-800 object-cover transition-colors group-hover:border-stone-600"
               />
               <span
-                class="w-fit rounded px-2 py-1 text-xs font-bold uppercase tracking-wide text-stone-900"
+                class:list={["w-fit rounded px-2 py-1 text-xs font-bold uppercase tracking-wide", badgeTextClass(project.badge.color)]}
                 style={`background-color: #${project.badge.color}`}
               >
                 {project.badge.text}

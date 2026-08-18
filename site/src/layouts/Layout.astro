@@ -10,6 +10,9 @@ const { title, description } = Astro.props
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <!-- SVG favicon embeds the live GitHub avatar URL directly, so it always
+         reflects whatever's currently set on GitHub instead of a stale local copy -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" href="/favicon-32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="/favicon.png" sizes="256x256" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
