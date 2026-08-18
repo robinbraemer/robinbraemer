@@ -10,8 +10,11 @@ const { title, description } = Astro.props
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <!-- SVG favicon embeds the live GitHub avatar URL directly, so it always
-         reflects whatever's currently set on GitHub instead of a stale local copy -->
+    <!-- Favicon avatar is baked into favicon.svg as a base64 data URI (see
+         scripts/render-favicon.sh) - browsers don't fetch external resources
+         referenced inside a favicon SVG at all, even same-origin ones, so it
+         has to be fully self-contained. Re-run the script when the GitHub
+         avatar changes. -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" href="/favicon-32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="/favicon.png" sizes="256x256" />
