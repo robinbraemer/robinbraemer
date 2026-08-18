@@ -6,6 +6,7 @@ import ColumnLabel from "../components/ColumnLabel.astro"
 import Squiggle from "../components/Squiggle.astro"
 import StarIcon from "../components/StarIcon.astro"
 import AnimationToggle from "../components/AnimationToggle.tsx"
+import ScrollHint from "../components/ScrollHint.astro"
 import { profile as config } from "../../../profile.config.ts"
 import { loadProfile, ProfileLayer } from "../lib/profile.ts"
 
@@ -38,6 +39,7 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
   description="Robin Brämer — Senior SRE & Agentic Platform Engineer. Go, Rust, TypeScript, Kubernetes, AI."
 >
   <AnimationToggle client:load />
+  <ScrollHint />
   <div
     title={`profile: ${profile.source}`}
     aria-label="profile source"
@@ -129,41 +131,31 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
         <ColumnLabel>Assorted Projects</ColumnLabel>
         <div class="flex flex-col">
           {topRepos.map((repo) => (
-            <div class="group flex flex-col border-t border-stone-800 py-4">
+            <a href={repo.url} target="_blank" rel="noreferrer" class="group flex flex-col border-t border-stone-800 py-4">
               <div class="flex items-start justify-between gap-4">
-                <a href={repo.url} target="_blank" rel="noreferrer" class="text-sm font-bold text-stone-100 transition-colors group-hover:text-yellow-400">
+                <span class="text-sm font-bold text-stone-100 transition-colors group-hover:text-yellow-400">
                   {repo.name}
-                </a>
-                <span class="shrink-0 rounded bg-stone-900 px-1.5 py-1 text-xs font-bold text-stone-400">
-                  {repo.language || "REPO"}
                 </span>
+                <div class="flex shrink-0 items-center gap-2">
+                  {repo.stars > 0 && (
+                    <span class="flex items-center gap-1 text-xs font-light text-stone-500">
+                      <StarIcon class="h-3.5 w-3.5 text-stone-400" />
+                      {repo.stars.toLocaleString()}
+                    </span>
+                  )}
+                  <span class="rounded bg-stone-900 px-1.5 py-1 text-xs font-bold text-stone-400">
+                    {repo.language || "REPO"}
+                  </span>
+                </div>
               </div>
               <p class="mt-2 text-sm font-light text-stone-500">{repo.description || "No description."}</p>
-            </div>
-          ))}
-        </div>
-      </div>
-    </div>
-
-    <!-- Column 4 — Open source -->
-    <div data-column="true" class="flex w-full shrink-0 flex-col sm:w-[32rem] sm:overflow-y-auto sm:border-r sm:border-stone-800">
-      <div class="px-6 py-8 sm:p-12">
-        <ColumnLabel>Open Source</ColumnLabel>
-        <div class="flex flex-col">
-          {topRepos.map((repo) => (
-            <a href={repo.url} target="_blank" rel="noreferrer" class="group flex items-center justify-between border-t border-stone-800 py-4">
-              <span class="text-sm font-bold text-stone-100 transition-colors group-hover:text-yellow-400">{repo.name}</span>
-              <span class="flex items-center gap-1.5 text-xs font-light text-stone-500">
-                <StarIcon class="h-3.5 w-3.5 text-stone-400" />
-                {repo.stars.toLocaleString()}
-              </span>
             </a>
           ))}
         </div>
       </div>
     </div>
 
-    <!-- Column 5 — Skills -->
+    <!-- Column 4 — Skills -->
     <div data-column="true" class="flex w-full shrink-0 flex-col sm:w-[32rem] sm:overflow-y-auto sm:border-r sm:border-stone-800">
       <div class="px-6 py-8 sm:p-12">
         <ColumnLabel>Languages</ColumnLabel>
@@ -184,7 +176,7 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
       </div>
     </div>
 
-    <!-- Column 6 — Work -->
+    <!-- Column 5 — Work -->
     <div data-column="true" class="flex w-full shrink-0 flex-col sm:w-[32rem] sm:overflow-y-auto sm:border-r sm:border-stone-800">
       <div class="px-6 py-8 sm:p-12">
         <ColumnLabel>Work</ColumnLabel>

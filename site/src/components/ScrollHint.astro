@@ -1,0 +1,50 @@
+<div
+  id="scroll-hint"
+  class="pointer-events-none fixed bottom-4 left-1/2 z-10 flex -translate-x-1/2 items-center gap-2 rounded-full bg-stone-900/90 px-3 py-1.5 text-xs text-stone-400 opacity-0 backdrop-blur transition-opacity duration-500"
+>
+  <span>scroll for more</span>
+  <svg viewBox="0 0 24 24" class="h-3.5 w-3.5 animate-scroll-hint" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M9 6l6 6-6 6" />
+  </svg>
+</div>
+
+<script>
+  const hint = document.getElementById("scroll-hint")
+  const main = document.querySelector("main")
+  if (hint && main && !sessionStorage.getItem("scroll-hint-dismissed")) {
+    const dismiss = () => {
+      hint.style.opacity = "0"
+      sessionStorage.setItem("scroll-hint-dismissed", "1")
+      main.removeEventListener("scroll", dismiss)
+    }
+    const showTimer = setTimeout(() => {
+      hint.style.opacity = "1"
+    }, 800)
+    const hideTimer = setTimeout(dismiss, 6000)
+    main.addEventListener("scroll", () => {
+      clearTimeout(showTimer)
+      clearTimeout(hideTimer)
+      dismiss()
+    })
+  } else if (hint) {
+    hint.remove()
+  }
+</script>
+
+<style>
+  @keyframes scroll-hint {
+    0%,
+    100% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(4px);
+    }
+  }
+  .animate-scroll-hint {
+    animation: scroll-hint 1.2s ease-in-out infinite;
+  }
+  .animations-off .animate-scroll-hint {
+    animation: none;
+  }
+</style>
