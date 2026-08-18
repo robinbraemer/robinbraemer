@@ -29,9 +29,12 @@ const { title, description } = Astro.props
     />
     <title>{title}</title>
     <script is:inline>
-      // restore the persisted accent color before first paint, avoiding a flash of the default
-      var savedAccent = localStorage.getItem("accent")
-      if (savedAccent) document.documentElement.style.setProperty("--accent", savedAccent)
+      // restore the persisted theme's CSS vars before first paint, avoiding a flash of the default
+      var savedTheme = localStorage.getItem("theme-vars")
+      if (savedTheme) {
+        var vars = JSON.parse(savedTheme)
+        for (var key in vars) document.documentElement.style.setProperty(key, vars[key])
+      }
     </script>
   </head>
   <body>
@@ -47,29 +50,37 @@ const { title, description } = Astro.props
     --font-display: "Cormorant", Georgia, "Times New Roman", serif;
   }
 
+  /* Default theme. ThemeDot swaps every one of these together at runtime
+     (see THEMES in ThemeDot.astro) - none of them can be static Tailwind
+     utilities, since those compile to a fixed hex at build time. */
   :root {
     --accent: #facc15;
+    --bg: #0c0a09;
+    --surface: #1c1917;
+    --border: #292524;
+    --border-hover: #57534e;
+    --text: #f5f5f4;
+    --text-dim: #a8a29e;
+    --text-muted: #78716c;
   }
 
   html {
-    background: #0c0a09;
+    background: var(--bg);
   }
 
   body {
     margin: 0;
     font-family: var(--font-mono);
-    color: #e7e5e4;
-    background: #0c0a09;
+    color: var(--text);
+    background: var(--bg);
     -webkit-font-smoothing: antialiased;
   }
 
   ::selection {
     background: var(--accent);
-    color: #0c0a09;
+    color: var(--bg);
   }
 
-  /* accent color is theme-switchable at runtime via --accent, so it can't be a
-     static Tailwind utility (those compile to a fixed hex) */
   .text-accent {
     color: var(--accent);
   }
@@ -78,6 +89,28 @@ const { title, description } = Astro.props
   }
   .group:hover .group-hover-accent {
     color: var(--accent);
+  }
+
+  .bg-page {
+    background-color: var(--bg);
+  }
+  .bg-surface {
+    background-color: var(--surface);
+  }
+  .border-theme {
+    border-color: var(--border);
+  }
+  .group:hover .group-hover-border {
+    border-color: var(--border-hover);
+  }
+  .text-heading {
+    color: var(--text);
+  }
+  .text-dim {
+    color: var(--text-dim);
+  }
+  .text-muted {
+    color: var(--text-muted);
   }
 
   .scrollbar-hide {

@@ -1,19 +1,71 @@
 <button
   id="theme-dot"
   type="button"
-  title="Change accent color"
-  aria-label="change accent color"
-  class="fixed top-4 right-4 z-10 h-6 w-6 rounded-full ring-1 ring-stone-700 transition-transform hover:scale-110"
-  style="background: var(--accent)"
+  title="Change theme"
+  aria-label="change theme"
+  class="fixed top-4 right-4 z-10 h-6 w-6 rounded-full ring-1"
+  style="background: var(--accent); box-shadow: 0 0 0 1px var(--border) inset"
 ></button>
 
 <script>
-  const COLORS = ["#facc15", "#22d3ee", "#f472b6", "#4ade80", "#a78bfa"]
+  // Each entry sets every themeable CSS var together - background, surfaces,
+  // borders, text tiers, and accent - so cycling swaps the whole look, not
+  // just the accent color.
+  const THEMES = [
+    {
+      "--accent": "#facc15",
+      "--bg": "#0c0a09",
+      "--surface": "#1c1917",
+      "--border": "#292524",
+      "--border-hover": "#57534e",
+      "--text": "#f5f5f4",
+      "--text-dim": "#a8a29e",
+      "--text-muted": "#78716c",
+    },
+    {
+      "--accent": "#38bdf8",
+      "--bg": "#0a0e1a",
+      "--surface": "#131a2e",
+      "--border": "#1e293b",
+      "--border-hover": "#334155",
+      "--text": "#f1f5f9",
+      "--text-dim": "#94a3b8",
+      "--text-muted": "#64748b",
+    },
+    {
+      "--accent": "#4ade80",
+      "--bg": "#0a1410",
+      "--surface": "#142019",
+      "--border": "#1f2e26",
+      "--border-hover": "#33473c",
+      "--text": "#ecfdf3",
+      "--text-dim": "#86a897",
+      "--text-muted": "#5c7a6a",
+    },
+    {
+      "--accent": "#f472b6",
+      "--bg": "#140a14",
+      "--surface": "#201420",
+      "--border": "#302030",
+      "--border-hover": "#4a324a",
+      "--text": "#fdecfa",
+      "--text-dim": "#b592b0",
+      "--text-muted": "#7a5c78",
+    },
+  ]
+
   const dot = document.getElementById("theme-dot")
+  const apply = (vars: Record<string, string>) => {
+    for (const key in vars) document.documentElement.style.setProperty(key, vars[key])
+  }
+  const currentIndex = () => {
+    const currentAccent = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim()
+    return THEMES.findIndex((t) => t["--accent"] === currentAccent)
+  }
+
   dot?.addEventListener("click", () => {
-    const current = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim()
-    const next = COLORS[(COLORS.indexOf(current) + 1) % COLORS.length]
-    document.documentElement.style.setProperty("--accent", next)
-    localStorage.setItem("accent", next)
+    const next = THEMES[(Math.max(currentIndex(), 0) + 1) % THEMES.length]
+    apply(next)
+    localStorage.setItem("theme-vars", JSON.stringify(next))
   })
 </script>
