@@ -2,6 +2,9 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "robinbraemer",
   "compatibility_date": "2026-08-14",
+  "build": {
+    "command": "bun install && bun run build"
+  },
   "routes": [
     {
       "pattern": "robin.heyreis.com",
