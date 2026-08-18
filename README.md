@@ -1,3 +1,4 @@
+<!-- GENERATED FILE — do not hand-edit. Edit profile.config.ts, then run: bun run render-readme -->
 <div align="center">
 
 <a href="https://github.com/robinbraemer">
@@ -33,12 +34,11 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
       <b>Featured Projects</b>
     </td>
   </tr>
-  <!-- AgentOS Section -->
   <tr>
     <td align="center" width="33%">
       <br/>
       <a href="https://agentos.akua.dev">
-        <img src="https://img.shields.io/badge/Agent-OS-F7F680?style=for-the-badge" alt="Akua"/>
+        <img src="https://img.shields.io/badge/Agent-OS-F7F680?style=for-the-badge" alt="Agent OS"/>
       </a>
       <br/><br/>
       <b>Self-driving company harness</b>
@@ -49,56 +49,53 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://agentos.akua.dev">
-        <img width="1128" height="617" alt="AgentOS" src="https://github.com/user-attachments/assets/f431896b-5b91-49a1-b154-728c8cdb38a3" />
+        <img width="600" alt="Self-driving company harness screenshot" src="site/public/projects/agentos.png" />
       </a>
     </td>
   </tr>
-  <!-- Akua Section -->
   <tr>
     <td align="center" width="33%">
       <br/>
-      <a href="https://akua.dev/docs">
-        <img src="https://img.shields.io/badge/Akua-Cloud-5196CD?style=for-the-badge" alt="Akua"/>
+      <a href="https://docs.akua.dev">
+        <img src="https://img.shields.io/badge/Akua-Cloud-5196CD?style=for-the-badge" alt="Akua Cloud"/>
       </a>
       <br/><br/>
       <b>Agentic Cloud Platform</b>
       <br/><br/>
       Build self-hosted clouds, sell software products.
       <br/><br/>
-      <a href="https://docs.akua.dev">akua.dev →</a>
+      <a href="https://docs.akua.dev">docs.akua.dev →</a>
     </td>
     <td align="center" width="67%" colspan="2">
-      <a href="https://akua.dev">
-        <img width="1508" height="821" alt="Akua platform screenshot" src="https://github.com/user-attachments/assets/2874eacd-e16b-403b-8054-67d73424d286" />
+      <a href="https://docs.akua.dev">
+        <img width="600" alt="Agentic Cloud Platform screenshot" src="site/public/projects/akua.png" />
       </a>
     </td>
   </tr>
-  <!-- Hetzner Value Auctions Section -->
   <tr>
     <td align="center" width="33%">
       <br/>
       <a href="https://auction.akua.dev/about">
-        <img src="https://img.shields.io/badge/Hetzner-Browser-c5272a?style=for-the-badge" alt="Hetzner Value Auctions"/>
+        <img src="https://img.shields.io/badge/Hetzner-Browser-c5272a?style=for-the-badge" alt="Hetzner Browser"/>
       </a>
       <br/><br/>
       <b>Hetzner Value Auctions</b>
       <br/><br/>
       Smarter Hetzner server search with real performance data and filters.
       <br/><br/>
-      <a href="https://auction.akua.dev/about">auction.akua.dev →</a>
+      <a href="https://auction.akua.dev/about">auction.akua.dev/about →</a>
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://auction.akua.dev/about">
-        <img width="1324" height="747" alt="Hetzner Value Auctions screenshot" src="https://github.com/user-attachments/assets/10c30f6d-3c0f-44f8-b8d5-7b759b43232f" style="max-width: 400px; border-radius: 10px;" />
+        <img width="600" alt="Hetzner Value Auctions screenshot" src="site/public/projects/hetzner-auctions.png" />
       </a>
     </td>
   </tr>
-  <!-- Dribble Section -->
   <tr>
     <td align="center" width="33%">
       <br/>
       <a href="https://dribblesports.com">
-        <img src="https://img.shields.io/badge/Dribble-Sports-000000?style=for-the-badge" alt="Dribble"/>
+        <img src="https://img.shields.io/badge/Dribble-Sports-000000?style=for-the-badge" alt="Dribble Sports"/>
       </a>
       <br/><br/>
       <b>More Than Just Watching</b>
@@ -109,16 +106,15 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://dribblesports.com">
-        <img width="1505" height="822" alt="image" src="https://github.com/user-attachments/assets/d46dba6f-9f2b-4f99-aa9a-650d963e0e6c" style="max-width: 400px; border-radius: 10px;" />
+        <img width="600" alt="More Than Just Watching screenshot" src="site/public/projects/dribble.png" />
       </a>
     </td>
   </tr>
-  <!-- Minekube Connect Section -->
   <tr>
     <td align="center" width="33%">
       <br/>
       <a href="https://connect.minekube.com">
-        <img src="https://img.shields.io/badge/Minekube-Connect-f57c00?style=for-the-badge" alt="Minekube"/>
+        <img src="https://img.shields.io/badge/Minekube-Connect-f57c00?style=for-the-badge" alt="Minekube Connect"/>
       </a>
       <br/><br/>
       <b>The Cloudflare for Gaming</b>
@@ -129,11 +125,10 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://connect.minekube.com">
-        <img width="1324" height="684" alt="Minekube Connect screenshot" src="https://github.com/user-attachments/assets/1067cd7b-ba80-4ee0-960c-b4c6e810f2e3" style="max-width: 400px; border-radius: 10px;" />
+        <img width="600" alt="The Cloudflare for Gaming screenshot" src="site/public/projects/minekube-connect.png" />
       </a>
     </td>
   </tr>
-  <!-- Minekube AI Servers Section -->
   <tr>
     <td align="center" width="33%">
       <br/>
@@ -149,16 +144,15 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://minekube.com">
-        <img width="1324" height="684" alt="Minekube AI Servers screenshot" src="https://github.com/user-attachments/assets/6bff508a-6fa8-4230-a7f4-020acb76328a" style="max-width: 400px; border-radius: 10px;" />
+        <img width="600" alt="AI Minecraft Servers screenshot" src="site/public/projects/minekube-ai.png" />
       </a>
     </td>
   </tr>
-  <!-- Gate Project Section -->
   <tr>
     <td align="center" width="33%">
       <br/>
       <a href="https://gate.minekube.com">
-        <img src="https://img.shields.io/badge/Gate-Proxy-3ba3e6?style=for-the-badge" alt="Gate"/>
+        <img src="https://img.shields.io/badge/Gate-Proxy-3ba3e6?style=for-the-badge" alt="Gate Proxy"/>
       </a>
       <br/><br/>
       <b>High-Performance Proxy</b>
@@ -169,7 +163,7 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
     </td>
     <td align="center" width="67%" colspan="2">
       <a href="https://gate.minekube.com">
-        <img width="811" height="442" alt="image" src="https://github.com/user-attachments/assets/d6d7714d-d26d-4a28-9899-88b839802cdc" style="max-width: 400px; border-radius: 10px;" />
+        <img width="600" alt="High-Performance Proxy screenshot" src="site/public/projects/gate.png" />
       </a>
     </td>
   </tr>
@@ -210,7 +204,6 @@ Experienced **Full Stack • Platform Engineer** with a proven track record of b
 <td>Game backend microservices. Scalable architecture, CI/CD pipelines, Agones matchmaking</td>
 <td><details><summary>More</summary>• Engineered scalable microservices architecture<br>• Implemented Kubernetes deployments for game servers<br>• Developed CI/CD pipelines<br>• Built configurable matchmaking system using Agones<br>• Monitoring & logging solutions</details></td>
 </tr>
-<!-- Side Projects & Open Source -->
 <tr>
 <td align="center" colspan="3"><br><b>Side Projects & Open Source</b></td>
 </tr>

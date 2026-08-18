@@ -1,0 +1,18 @@
+---
+const goal = "CURRENT LIFE GOAL: PRECIPITATE THE AGE OF AGENTIC PLATFORM ENGINEERING"
+const items = Array.from({ length: 10 })
+---
+
+<div class="overflow-hidden border-b border-stone-800 bg-stone-900">
+  <div class="animate-marquee flex w-max items-center gap-4 py-2.5">
+    {
+      items.map(() => (
+        <span class="flex items-center gap-4 whitespace-nowrap">
+          <span class="text-sm italic text-stone-500">CURRENT LIFE GOAL:</span>
+          <span class="text-sm font-bold text-stone-100">{goal}</span>
+          <span class="text-sm text-yellow-400">☺</span>
+        </span>
+      ))
+    }
+  </div>
+</div>

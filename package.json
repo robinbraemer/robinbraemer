@@ -1,0 +1,12 @@
+{
+  "name": "robinbraemer",
+  "private": true,
+  "type": "module",
+  "workspaces": ["site"],
+  "scripts": {
+    "render-readme": "bun scripts/render-readme.ts"
+  },
+  "dependencies": {
+    "effect": "4.0.0-rc.109"
+  }
+}
