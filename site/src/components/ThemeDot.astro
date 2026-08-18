@@ -1,0 +1,19 @@
+<button
+  id="theme-dot"
+  type="button"
+  title="Change accent color"
+  aria-label="change accent color"
+  class="fixed top-4 right-4 z-10 h-6 w-6 rounded-full ring-1 ring-stone-700 transition-transform hover:scale-110"
+  style="background: var(--accent)"
+></button>
+
+<script>
+  const COLORS = ["#facc15", "#22d3ee", "#f472b6", "#4ade80", "#a78bfa"]
+  const dot = document.getElementById("theme-dot")
+  dot?.addEventListener("click", () => {
+    const current = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim()
+    const next = COLORS[(COLORS.indexOf(current) + 1) % COLORS.length]
+    document.documentElement.style.setProperty("--accent", next)
+    localStorage.setItem("accent", next)
+  })
+</script>

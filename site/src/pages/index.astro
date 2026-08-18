@@ -5,7 +5,7 @@ import Marquee from "../components/Marquee.astro"
 import ColumnLabel from "../components/ColumnLabel.astro"
 import Squiggle from "../components/Squiggle.astro"
 import StarIcon from "../components/StarIcon.astro"
-import AnimationToggle from "../components/AnimationToggle.tsx"
+import ThemeDot from "../components/ThemeDot.astro"
 import ScrollHint from "../components/ScrollHint.astro"
 import { profile as config } from "../../../profile.config.ts"
 import { loadProfile, ProfileLayer } from "../lib/profile.ts"
@@ -38,14 +38,8 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
   title="Robin Brämer — Agentic Platform Engineer"
   description="Robin Brämer — Senior SRE & Agentic Platform Engineer. Go, Rust, TypeScript, Kubernetes, AI."
 >
-  <AnimationToggle client:load />
+  <ThemeDot />
   <ScrollHint />
-  <div
-    title={`profile: ${profile.source}`}
-    aria-label="profile source"
-    class="fixed top-4 right-4 z-10 h-6 w-6 rounded-full ring-1 ring-stone-700"
-    style="background: #e7e5e4"
-  />
 
   <main class="flex h-screen flex-col overflow-x-auto scrollbar-hide sm:flex-row">
     <!-- Column 1 — Hero -->
@@ -62,7 +56,7 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
         />
         <ColumnLabel>Intro</ColumnLabel>
         <p class="text-sm leading-relaxed text-stone-100">
-          I am <span class="font-bold text-yellow-400">{profile.name}</span> and this is my website. {bioIntroSentence}.
+          I am <span class="text-accent font-bold">{profile.name}</span> and this is my website. {bioIntroSentence}.
         </p>
         <p class="mt-4 text-sm leading-relaxed text-stone-500">
           Based in {profile.location || "Germany, Berlin"}. I have enjoyed Rust, Go, TypeScript, Java, and
@@ -71,9 +65,9 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
         </p>
         <p class="mt-4 text-sm leading-relaxed text-stone-500">
           Currently working on agentic platform engineering at{" "}
-          <a href="https://github.com/akua-dev" class="text-stone-300 transition-colors hover:text-yellow-400">@akua-dev</a>{" "}
+          <a href="https://github.com/akua-dev" class="hover-accent text-stone-300 transition-colors">@akua-dev</a>{" "}
           and{" "}
-          <a href="https://github.com/Minekube" class="text-stone-300 transition-colors hover:text-yellow-400">@minekube</a>.
+          <a href="https://github.com/Minekube" class="hover-accent text-stone-300 transition-colors">@minekube</a>.
         </p>
 
         <Squiggle />
@@ -82,7 +76,7 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
         <ul class="flex flex-col gap-2 text-sm">
           {config.links.map((link) => (
             <li>
-              <a href={link.href} target="_blank" rel="noreferrer" class="text-stone-300 transition-colors hover:text-yellow-400">
+              <a href={link.href} target="_blank" rel="noreferrer" class="hover-accent text-stone-300 transition-colors">
                 {link.label}
               </a>
             </li>
@@ -115,7 +109,7 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
               >
                 {project.badge.text}
               </span>
-              <span class="text-sm font-bold text-stone-100 transition-colors group-hover:text-yellow-400">
+              <span class="group-hover-accent text-sm font-bold text-stone-100 transition-colors">
                 {project.title}
               </span>
               <span class="text-sm font-light text-stone-500">{project.description}</span>
@@ -133,7 +127,7 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
           {topRepos.map((repo) => (
             <a href={repo.url} target="_blank" rel="noreferrer" class="group flex flex-col border-t border-stone-800 py-4">
               <div class="flex items-start justify-between gap-4">
-                <span class="text-sm font-bold text-stone-100 transition-colors group-hover:text-yellow-400">
+                <span class="group-hover-accent text-sm font-bold text-stone-100 transition-colors">
                   {repo.name}
                 </span>
                 <div class="flex shrink-0 items-center gap-2">
@@ -198,7 +192,7 @@ const bioIntroSentence = config.bioLong.split(".")[0]?.replace(/\*\*/g, "")
         <ul class="flex flex-col gap-2 text-sm">
           {config.links.map((link) => (
             <li>
-              <a href={link.href} target="_blank" rel="noreferrer" class="text-stone-300 transition-colors hover:text-yellow-400">
+              <a href={link.href} target="_blank" rel="noreferrer" class="hover-accent text-stone-300 transition-colors">
                 {link.label}
               </a>
             </li>
